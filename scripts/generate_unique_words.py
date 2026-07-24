@@ -10,14 +10,16 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DICTIONARY_PATH = REPO_ROOT / "data" / "websters_1828_words.txt"
 BOM_DIR = REPO_ROOT / "data" / "bom_1830"
 WORDS_OUTPUT_PATH = REPO_ROOT / "output" / "unique_bom_words.txt"
+WORDS_WITH_OCCURANCES_OUTPUT_PATH = REPO_ROOT / "output" / "unique_bom_words_with_occurances.txt"
 REFERENCES_OUTPUT_PATH = REPO_ROOT / "output" / "unique_bom_words_references.tsv"
 
 # A "word" is a maximal run of Latin letters, plus straight (') and curly (’)
-# apostrophes -- which are then stripped out entirely rather than treated as a
-# boundary, so "Lord's" / "Lord’s" both become "lords", not two tokens or a
-# literal apostrophe in the output. See README.md's "What counts as a word"
-# section for the full definition, including why hyphens *do* split words.
-WORD_RE = re.compile(r"[A-Za-z'’]+")
+# apostrophes, plus hyphens. Apostrophes are stripped out entirely rather than
+# treated as part of the word or a boundary, so "Lord's" / "Lord’s" both
+# become "lords". Hyphens, by contrast, are kept as-is and do NOT split the
+# word: "Ani-anti" stays "ani-anti", "to-day" stays "to-day". See README.md's
+# "What counts as a word" section for the full definition.
+WORD_RE = re.compile(r"[A-Za-z'’-]+")
 
 # Canonical Book of Mormon book order, matching the folder names under data/bom_1830.
 BOOK_ORDER = [
@@ -68,6 +70,10 @@ def main() -> None:
     WORDS_OUTPUT_PATH.parent.mkdir(exist_ok=True)
     with WORDS_OUTPUT_PATH.open("w", encoding="utf-8") as f:
         for word in unique_words:
+            f.write(f"{word}\n")
+
+    with WORDS_WITH_OCCURANCES_OUTPUT_PATH.open("w", encoding="utf-8") as f:
+        for word in unique_words:
             f.write(f"{word}\t{bom_word_counts[word]}\n")
 
     with REFERENCES_OUTPUT_PATH.open("w", encoding="utf-8") as f:
@@ -80,6 +86,7 @@ def main() -> None:
     print(f"Distinct BoM words: {len(bom_word_counts)}")
     print(f"Unique BoM words (not in dictionary): {len(unique_words)}")
     print(f"Wrote {WORDS_OUTPUT_PATH}")
+    print(f"Wrote {WORDS_WITH_OCCURANCES_OUTPUT_PATH}")
     print(f"Wrote {REFERENCES_OUTPUT_PATH}")
 
 
