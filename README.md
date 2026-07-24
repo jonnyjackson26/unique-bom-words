@@ -17,20 +17,41 @@ Mormon was published.
   spelling and punctuation. It contains 6,604 verses across all 15 books, matching the known
   total verse count of the Book of Mormon.
 
-## How it works
+## What counts as a "word"
 
-[`scripts/generate_unique_words.py`](scripts/generate_unique_words.py):
+`scripts/generate_unique_words.py` scans each verse's `text` with the regular expression
+`[A-Za-z'’]+` — a maximal run of Latin letters that may also contain straight (`'`) or curly
+(`’`) apostrophes — then, from each match:
 
-1. Loads the dictionary headwords into a lowercase set.
-2. Walks every chapter JSON file under `data/bom_1830/`, in canonical book/chapter order,
-   tokenizing each verse's text into words (letters and internal apostrophes, e.g. `isn't`),
-   lowercased, and records every occurrence along with its `Book Chapter:Verse` reference.
-3. Writes every Book of Mormon word whose lowercase form is not in the dictionary set, sorted
-   alphabetically, to two files:
-   - [`output/unique_bom_words.txt`](output/unique_bom_words.txt) — `word<TAB>occurrence_count`.
-   - [`output/unique_bom_words_references.tsv`](output/unique_bom_words_references.tsv) —
-     `word<TAB>reference`, one row per occurrence (e.g. `zarahemla	Omni 1:13`), so every
-     occurrence of every unique word can be traced back to its verse.
+1. **Removes every apostrophe** (straight or curly), rather than treating it as part of the
+   word or as a word boundary. `Lord’s` and `Lord's` both become `lords`; `father's` becomes
+   `fathers`. (The 1830 text in this repo only ever uses the curly `’`, e.g. `Lord’s`,
+   `shoe’s`, `cockatrice’s` — the straight-apostrophe case is handled for robustness but
+   doesn't currently occur.)
+2. **Lowercases** the result, e.g. `Nephi` and `nephi` are the same word.
+
+Everything else — spaces, commas, periods, semicolons, colons, question marks, exclamation
+points, em dashes (`—`), parentheses, square brackets, and **hyphens** — is treated as a word
+boundary, not part of a word. This means:
+
+- `to-day` tokenizes as two words, `to` and `day` (both already common dictionary words, so
+  invisible in the output either way).
+- Hyphenated proper-noun compounds fragment the same way, and currently have **no entry of
+  their own** in the output: `Ani-anti` (Alma 21:11) → `ani` + `anti`; `Anti-Nephi-Lehi(es)` →
+  `anti` + `nephi` + `lehi(es)`; `Lehi-Nephi` (the city) → `lehi` + `nephi`;
+  `Maher-shalal-hash-baz` → four separate fragments.
+- Bracketed editorial insertions are counted as ordinary text, e.g. `[hoofs]` in
+  3 Nephi 20:19 contributes the word `hoofs`.
+
+Each resulting word is then counted per occurrence (across all 6,604 verses) and, if its
+lowercase form isn't a headword in Webster's 1828, written to the output files along with
+every verse reference it occurs in:
+
+- [`output/unique_bom_words.txt`](output/unique_bom_words.txt) — `word<TAB>occurrence_count`,
+  sorted alphabetically.
+- [`output/unique_bom_words_references.tsv`](output/unique_bom_words_references.tsv) —
+  `word<TAB>reference`, one row per occurrence (e.g. `zarahemla	Omni 1:13`), so every
+  occurrence of every unique word can be traced back to its verse.
 
 Proper nouns (e.g. `nephi`, `zarahemla`, `moroni`) are intentionally included — they're a
 notable part of what's "unique" to the text.

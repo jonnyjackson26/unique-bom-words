@@ -12,7 +12,12 @@ BOM_DIR = REPO_ROOT / "data" / "bom_1830"
 WORDS_OUTPUT_PATH = REPO_ROOT / "output" / "unique_bom_words.txt"
 REFERENCES_OUTPUT_PATH = REPO_ROOT / "output" / "unique_bom_words_references.tsv"
 
-WORD_RE = re.compile(r"[A-Za-z']+")
+# A "word" is a maximal run of Latin letters, plus straight (') and curly (’)
+# apostrophes -- which are then stripped out entirely rather than treated as a
+# boundary, so "Lord's" / "Lord’s" both become "lords", not two tokens or a
+# literal apostrophe in the output. See README.md's "What counts as a word"
+# section for the full definition, including why hyphens *do* split words.
+WORD_RE = re.compile(r"[A-Za-z'’]+")
 
 # Canonical Book of Mormon book order, matching the folder names under data/bom_1830.
 BOOK_ORDER = [
@@ -42,7 +47,7 @@ def iter_bom_word_references():
         for verse in chapter["verses"]:
             reference = f"{book} {chapter_num}:{verse['verse']}"
             for match in WORD_RE.finditer(verse["text"]):
-                word = match.group().strip("'")
+                word = match.group().replace("'", "").replace("’", "")
                 if word:
                     yield word.lower(), reference
 

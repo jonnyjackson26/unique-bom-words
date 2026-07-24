@@ -36,8 +36,9 @@ altering	1
 amaleki	6
 amalekite	1
 amalekites	18
-amalickiah	64
+amalickiah	63
 amalickiahites	4
+amalickiahs	1
 amaron	2
 amgid	2
 aminadab	3
@@ -68,6 +69,7 @@ angels	54
 angles	1
 ani	1
 animals	5
+anothers	1
 answereth	1
 antiomno	1
 antion	1
@@ -187,7 +189,7 @@ brethern	1
 bricks	1
 briers	6
 bringeth	42
-brothers	10
+brothers	12
 bucklers	1
 buildeth	5
 buildings	13
@@ -251,7 +253,7 @@ chiefs	1
 choicest	1
 choirs	2
 christians	4
-christs	1
+christs	3
 churches	32
 cimeter	3
 cimeters	8
@@ -268,6 +270,7 @@ clouds	2
 clowd	1
 clubs	3
 coals	1
+cockatrices	2
 cohor	7
 colors	1
 combinations	21
@@ -362,7 +365,7 @@ darknesss	1
 darts	1
 daughters	75
 david	7
-days	208
+days	209
 deadnes	1
 dealings	3
 deaths	1
@@ -534,7 +537,7 @@ fared	1
 farthermost	1
 fasted	5
 fastest	1
-fathers	183
+fathers	187
 fatlings	3
 faults	4
 favors	2
@@ -596,13 +599,14 @@ friends	20
 fruits	12
 fulfil	20
 fulfilleth	3
-fullers	1
+fullers	2
 fulness	31
 furnaces	1
 gaddianhi	1
 gaddianton	5
 gadiandi	1
-gadianton	27
+gadianton	25
+gadiantons	2
 gadiomnah	1
 galilee	1
 gallim	1
@@ -633,7 +637,7 @@ giveth	11
 glasses	1
 glutting	1
 goats	3
-gods	2
+gods	4
 goes	1
 goest	2
 goeth	4
@@ -667,6 +671,7 @@ habitations	1
 hadst	1
 hagoth	1
 hairs	1
+halfs	1
 halted	3
 hamath	2
 handing	1
@@ -704,7 +709,8 @@ hehold	1
 heights	2
 heirs	2
 helam	16
-helaman	73
+helaman	72
+helamans	1
 helem	1
 helorum	1
 helped	1
@@ -834,7 +840,7 @@ kindleth	1
 kindreds	20
 kinds	4
 kingdoms	9
-kings	35
+kings	43
 kinsfolks	3
 kish	4
 kishkumen	19
@@ -888,7 +894,8 @@ lebanon	4
 legs	2
 lehi	125
 lehies	1
-lehonti	12
+lehonti	10
+lehontis	2
 lemuel	30
 lemuelites	5
 letting	1
@@ -921,6 +928,7 @@ looked	29
 looketh	2
 looking	5
 looks	3
+lords	3
 lots	1
 lovest	1
 loveth	6
@@ -940,6 +948,7 @@ malachi	2
 manasseh	3
 manifestations	4
 manifesteth	2
+mans	8
 mansions	4
 manti	22
 mantles	1
@@ -963,6 +972,7 @@ medes	1
 meetings	1
 melchizedek	5
 melek	8
+mens	1
 merchants	1
 mercies	18
 merits	5
@@ -997,11 +1007,12 @@ moriantum	1
 morionton	1
 mormon	43
 moron	14
-moroni	216
+moroni	215
 moronihah	20
+moronis	1
 moses	75
 mosiah	78
-mothers	9
+mothers	10
 motions	1
 moulder	1
 mouldering	2
@@ -1040,6 +1051,7 @@ needeth	2
 neeeds	1
 nehor	10
 nehors	4
+neighbors	4
 nephi	469
 nephihah	24
 nephite	10
@@ -1087,7 +1099,7 @@ ores	2
 orihah	5
 ornaments	3
 orphans	1
-others	35
+others	36
 outcasts	2
 overbearance	1
 overcame	3
@@ -1133,6 +1145,7 @@ peeped	1
 peeple	1
 pekah	1
 peopeople	1
+peoples	1
 perceiving	1
 performances	6
 perished	14
@@ -1183,6 +1196,7 @@ possesion	1
 possessions	21
 possessson	1
 posts	1
+potters	1
 powers	5
 practices	1
 praises	6
@@ -1200,7 +1214,7 @@ presses	1
 pretendeth	1
 prevailed	1
 priestcrafts	4
-priests	79
+priests	80
 princes	4
 prints	2
 prisoners	66
@@ -1260,7 +1274,7 @@ recieving	1
 records	74
 redeemeth	4
 redemer	1
-refiners	1
+refiners	2
 refuseth	1
 regin	1
 regions	5
@@ -1274,7 +1288,8 @@ rejoiceth	4
 rejoicings	4
 remained	12
 remaineth	8
-remaliah	5
+remaliah	3
+remaliahs	2
 rememberest	2
 remembereth	8
 remnants	2
@@ -1381,7 +1396,7 @@ seon	3
 separateth	1
 sepulchre	3
 seraphims	2
-serpents	9
+serpents	10
 servants	73
 serveth	3
 seth	3
@@ -1397,6 +1412,7 @@ shearers	1
 shearjashub	1
 sheaves	2
 sheddeth	1
+sheeps	1
 shelem	1
 shem	3
 shemlon	6
@@ -1422,7 +1438,7 @@ shinar	1
 shined	1
 ships	4
 shiz	31
-shoes	1
+shoes	2
 shores	1
 shoulders	8
 shouldest	1
@@ -1471,7 +1487,8 @@ sobbings	1
 sodom	2
 soldiers	5
 soles	1
-solomon	7
+solomon	6
+solomons	1
 sons	165
 sooner	2
 soothsayers	2
@@ -1691,7 +1708,7 @@ wars	61
 wasteth	1
 wat	1
 watchmen	4
-waters	76
+waters	77
 waves	8
 ways	55
 weakest	3
@@ -1716,6 +1733,7 @@ wimples	1
 windows	3
 winds	9
 wings	8
+wisdoms	2
 wishes	1
 witchcrafts	2
 withdrew	6
@@ -1729,7 +1747,7 @@ wolves	2
 wondered	1
 wondereth	1
 wonders	15
-words	635
+words	636
 workers	5
 workest	2
 worketh	8
