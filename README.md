@@ -22,11 +22,15 @@ Mormon was published.
 [`scripts/generate_unique_words.py`](scripts/generate_unique_words.py):
 
 1. Loads the dictionary headwords into a lowercase set.
-2. Walks every chapter JSON file under `data/bom_1830/`, tokenizing each verse's text into
-   words (letters and internal apostrophes, e.g. `isn't`), lowercased, and counts occurrences.
+2. Walks every chapter JSON file under `data/bom_1830/`, in canonical book/chapter order,
+   tokenizing each verse's text into words (letters and internal apostrophes, e.g. `isn't`),
+   lowercased, and records every occurrence along with its `Book Chapter:Verse` reference.
 3. Writes every Book of Mormon word whose lowercase form is not in the dictionary set, sorted
-   alphabetically, to [`output/unique_bom_words.txt`](output/unique_bom_words.txt) as
-   `word<TAB>occurrence_count`.
+   alphabetically, to two files:
+   - [`output/unique_bom_words.txt`](output/unique_bom_words.txt) — `word<TAB>occurrence_count`.
+   - [`output/unique_bom_words_references.tsv`](output/unique_bom_words_references.tsv) —
+     `word<TAB>reference`, one row per occurrence (e.g. `zarahemla	Omni 1:13`), so every
+     occurrence of every unique word can be traced back to its verse.
 
 Proper nouns (e.g. `nephi`, `zarahemla`, `moroni`) are intentionally included — they're a
 notable part of what's "unique" to the text.
