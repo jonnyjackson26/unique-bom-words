@@ -1,0 +1,155 @@
+# Typo
+
+- aaswer (1) - Alma 11:21
+- adhear (1) - Alma 60:34
+- ancles (1) - 1 Nephi 18:15
+- angles (1) - Helaman 10:6
+- armour (6) - 1 Nephi 4:19, Mosiah 21:7, + 4 more
+- armours (1) - Alma 46:21
+- armss (1) - Alma 50:26
+- arrriven (1) - Helaman 13:24
+- atempt (1) - Alma 55:30
+- axe (4) - 2 Nephi 20:15, Enos 1:20, + 2 more
+- bablings (1) - Alma 1:32
+- babtized (1) - 3 Nephi 18:30
+- bacause (1) - Helaman 7:5
+- baptise (3) - 1 Nephi 10:9, 1 Nephi 10:9, + 1 more
+- baptised (7) - 1 Nephi 10:10, 1 Nephi 10:10, + 5 more
+- becaus (1) - Alma 62:1
+- befal (1) - Helaman 8:8
+- beforetime (1) - 3 Nephi 18:34
+- berak (1) - 3 Nephi 18:3
+- betweem (1) - Helaman 2:1
+- breast-plate (1) - Alma 46:13
+- breast-plates (10) - Mosiah 8:10, Alma 43:19, + 8 more
+- breastwork (3) - Mosiah 11:11, Alma 53:4, + 1 more
+- candlestick (1) - 3 Nephi 12:15
+- carcases (1) - Alma 16:10
+- centre (9) - 1 Nephi 16:2, Alma 31:13, + 7 more
+- changeble (1) - Moroni 8:12
+- chid (1) - 1 Nephi 11:20
+- cimeter (3) - Enos 1:20, Alma 27:29, + 1 more
+- cimeters (8) - Mosiah 9:16, Mosiah 10:8, + 6 more
+- citties (1) - Helaman 7:22
+- clowd (1) - Ether 2:4
+- condescensions (1) - 2 Nephi 9:53
+- condescention (2) - 1 Nephi 11:16, 1 Nephi 11:26
+- condescentions (1) - Jacob 4:7
+- continnally (1) - Alma 58:41
+- daghter (1) - 1 Nephi 16:7
+- day-time (1) - Mosiah 18:5
+- deadnes (1) - 2 Nephi 25:27
+- deliteth (1) - 2 Nephi 4:15
+- drunkennes (1) - Alma 55:19
+- ear-rings (1) - 2 Nephi 13:20
+- eatheth (2) - 3 Nephi 20:8, 3 Nephi 20:8
+- eigth (1) - Alma 53:23
+- evidencess (1) - Helaman 5:50
+- evil-doer (1) - 2 Nephi 19:17
+- evil-doers (1) - 2 Nephi 24:20
+- eyewitness (2) - 3 Nephi 7:15, 3 Nephi 7:15
+- faggots (1) - Mosiah 17:13
+- faint-hearted (1) - 2 Nephi 17:4
+- feading (1) - Enos 1:20
+- firy (1) - 1 Nephi 15:24
+- firy-flying (1) - 1 Nephi 17:41
+- fraid (3) - Alma 47:2, Alma 58:24, + 1 more
+- fulfil (20) - 1 Nephi 20:14, 2 Nephi 6:12, + 18 more
+- govereor (1) - Helaman 1:13
+- havgn (1) - Alma 17:18
+- havoc (1) - Helaman 11:27
+- head-bands (1) - 2 Nephi 13:20
+- heen (1) - Alma 26:9
+- hehold (1) - Alma 43:8
+- hia (1) - Alma 22:27
+- hy (1) - Ether 9:3
+- journied (7) - 1 Nephi 4:38, 1 Nephi 5:6, + 5 more
+- khown (1) - Alma 22:18
+- lamanitas (1) - Alma 58:6
+- langauge (1) - Mosiah 28:17
+- levelled (1) - Alma 51:18
+- lustre (2) - 1 Nephi 1:9, Mosiah 13:5
+- miserable (6) - 2 Nephi 2:5, 2 Nephi 2:18, + 4 more
+- mnltitude (1) - 3 Nephi 18:17
+- moulder (1) - Mormon 6:15
+- mouldering (2) - Alma 28:11, Mormon 6:21
+- moulten (3) - Ether 3:1, Ether 3:3, + 1 more
+- neeeds (1) - 2 Nephi 2:11
+- neverthelers (1) - 3 Nephi 5:18
+- nevertheles (1) - 2 Nephi 2:2
+- noon-day (1) - 1 Nephi 1:9
+- numerority (1) - Alma 56:10
+- numhers (1) - Alma 58:15
+- obout (1) - Enos 1:19
+- offence (4) - 2 Nephi 18:14, Alma 41:9, + 2 more
+- opon (1) - Ether 9:20
+- peeple (1) - Jacob 2:29
+- peopeople (1) - Alma 8:30
+- phrensied (1) - Alma 30:16
+- plaees (1) - 2 Nephi 8:3
+- possesion (1) - Alma 55:24
+- possessson (1) - Alma 58:38
+- priest-crafts (2) - 2 Nephi 10:5, 2 Nephi 26:29
+- prohesy (1) - 2 Nephi 1:6
+- prophecying (1) - Helaman 6:2
+- prophecyings (1) - Words of Mormon 1:6
+- provisons (1) - Alma 57:8
+- purifyer (1) - 3 Nephi 24:3
+- puteth (1) - Mosiah 23:22
+- realise (1) - Mormon 3:3
+- reccive (1) - Alma 8:24
+- recieve (4) - Alma 16:16, Alma 16:17, + 2 more
+- recieved (1) - Alma 11:20
+- recieveth (1) - Alma 11:3
+- recieving (1) - Alma 22:22
+- redemer (1) - Helaman 5:11
+- regin (1) - Alma 28:7
+- rehearst (1) - Alma 20:11
+- rerecord (1) - Enos 1:20
+- rereward (2) - 3 Nephi 20:42, 3 Nephi 21:29
+- rssurrection (1) - Mosiah 15:21
+- rufused (1) - Alma 27:3
+- rumderers (1) - Mormon 2:10
+- saviour (12) - 1 Nephi 10:4, 1 Nephi 13:40, + 10 more
+- savour (1) - 3 Nephi 16:15
+- sceptres (1) - 2 Nephi 24:5
+- seashore (24) - 1 Nephi 17:6, 1 Nephi 17:6, + 22 more
+- seeond (1) - Alma 50:24
+- selfsame (1) - Alma 31:22
+- separateth (1) - 1 Nephi 15:28
+- sepulchre (3) - 1 Nephi 19:10, Alma 19:1, + 1 more
+- shew (91) - 1 Nephi 1:20, 1 Nephi 15:17, + 89 more
+- shewed (24) - 1 Nephi 11:31, 1 Nephi 12:6, + 22 more
+- sheweth (2) - 2 Nephi 31:9, Jacob 4:7
+- shewn (26) - 1 Nephi 1:15, 1 Nephi 1:18, + 24 more
+- shouldest (1) - 1 Nephi 21:6
+- shublons (1) - Alma 11:19
+- skilful (1) - Alma 10:15
+- stiffnecked (18) - 2 Nephi 25:28, Jacob 4:14, + 16 more
+- stiffneckedness (3) - 1 Nephi 2:11, Words of Mormon 1:17, + 1 more
+- storehouse (1) - 3 Nephi 24:10
+- subtlety (2) - 2 Nephi 5:24, Alma 12:4
+- suredly (2) - Alma 37:45, Moroni 7:26
+- swolen (1) - 1 Nephi 18:15
+- task-masters (2) - Mosiah 24:9, Mosiah 24:19
+- theit (1) - Alma 24:18
+- therefere (1) - Alma 21:12
+- therfore (2) - Alma 17:25, Mormon 1:15
+- thess (1) - 3 Nephi 18:12
+- threatnings (7) - 1 Nephi 18:17, Mosiah 19:3, + 5 more
+- to-day (11) - 1 Nephi 10:18, 2 Nephi 2:4, + 9 more
+- transgransgressions (1) - Alma 9:19
+- travelled (13) - 1 Nephi 2:5, 1 Nephi 2:6, + 11 more
+- traveller (1) - 2 Nephi 1:14
+- travelling (3) - 1 Nephi 16:33, Mosiah 23:35, + 1 more
+- treusures (1) - Helaman 8:25
+- uncircumsised (1) - Helaman 9:21
+- understandding (1) - 2 Nephi 27:35
+- vapour (2) - 1 Nephi 19:11, 3 Nephi 8:20
+- wat (1) - 3 Nephi 15:2
+- wherfore (1) - Ether 13:18
+- whieh (1) - Alma 59:10
+- whirl-wind (1) - 3 Nephi 10:13
+- wildernsss (1) - Ether 14:14
+- wilfully (4) - Mosiah 15:26, 3 Nephi 6:18, + 2 more
+- wilfulness (1) - Moroni 9:23

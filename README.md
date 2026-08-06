@@ -58,6 +58,31 @@ Run it with:
 python3 scripts/generate_unique_words.py
 ```
 
+## Curated categories
+
+[`output/curated_bom_words.csv`](output/curated_bom_words.csv) is a hand-reviewed, manually
+curated CSV (`word,category,notes`) classifying every word in `unique_bom_words.txt` into a
+category (`Proper`, `Typo`, `Variation`, `Real`, as of this writing).
+
+[`scripts/generate_category_pages.py`](scripts/generate_category_pages.py) reads that CSV and
+writes one Markdown file per category to `output/categories/<category>.md`, e.g.
+[`output/categories/Proper.md`](output/categories/Proper.md). Each is a bullet list, one line
+per word:
+
+```
+- abinadi (37) - Mosiah 11:20, Mosiah 11:26, + 35 more
+- abish (1) - Alma 19:16
+```
+
+`(N)` is the word's total occurrence count; after it, up to the first 2 verse references are
+shown, and if the word occurs more than twice, a final `+ N more` segment covers the rest.
+
+Run it with:
+
+```bash
+python3 scripts/generate_category_pages.py
+```
+
 ## Known limitation
 
 Webster's 1828 lists only base/singular headwords (`Day`, `Thing`, `Word`), not inflected

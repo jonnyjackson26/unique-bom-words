@@ -1,0 +1,55 @@
+# Real
+
+- arm-shields (2) - Alma 43:19, Alma 43:38
+- asmuch (1) - 2 Nephi 27:25
+- burthensome (1) - Mosiah 6:7
+- byword (1) - 1 Nephi 19:14
+- cauls (1) - 2 Nephi 13:18
+- crisping-pins (1) - 2 Nephi 13:22
+- cumoms (2) - Ether 9:19, Ether 9:19
+- cureloms (2) - Ether 9:19, Ether 9:19
+- ezias (1) - Helaman 8:20
+- ezrom (2) - Alma 11:6, Alma 11:12
+- forasmuch (1) - 2 Nephi 18:6
+- gazelem (1) - Alma 37:23
+- head-plate (1) - Alma 46:13
+- head-plates (5) - Alma 43:38, Alma 43:44, + 3 more
+- headplates (1) - Helaman 1:14
+- hell-fire (1) - 3 Nephi 12:22
+- house-tops (1) - 2 Nephi 27:11
+- inasmuch (31) - 1 Nephi 2:20, 1 Nephi 2:21, + 29 more
+- irreantum (1) - 1 Nephi 17:5
+- ites (1) - 4 Nephi 1:17
+- judgement (72) - Alma 50:37, Alma 50:39, + 70 more
+- judgements (14) - Alma 58:9, Alma 58:40, + 12 more
+- king-men (11) - Alma 51:5, Alma 51:7, + 9 more
+- lamb-skin (1) - 3 Nephi 4:7
+- liahona (1) - Alma 37:38
+- limnah (2) - Alma 11:5, Alma 11:10
+- many-day (1) - Helaman 13:2
+- massacred (1) - Alma 48:24
+- neas (1) - Mosiah 9:9
+- night-time (2) - 3 Nephi 4:24, 3 Nephi 4:25
+- northernmost (1) - 3 Nephi 7:12
+- nose-jewels (1) - 2 Nephi 13:21
+- onti (2) - Alma 11:6, Alma 11:13
+- onties (2) - Alma 11:22, Alma 11:25
+- plough-shares (1) - 2 Nephi 12:4
+- preparator (1) - 1 Nephi 15:35
+- rabbanah (2) - Alma 18:13, Alma 18:13
+- rameumptom (1) - Alma 31:21
+- revelator (1) - Mosiah 8:16
+- sabbath-day (2) - Mosiah 13:16, Mosiah 13:19
+- senine (8) - Alma 11:3, Alma 11:3, + 6 more
+- senum (4) - Alma 11:3, Alma 11:6, + 2 more
+- senums (2) - Alma 11:11, Alma 11:12
+- seon (3) - Alma 11:5, Alma 11:8, + 1 more
+- sheum (1) - Mosiah 9:9
+- shiblon (13) - Alma 11:15, Alma 11:15, + 11 more
+- shiblum (2) - Alma 11:16, Alma 11:17
+- shum (2) - Alma 11:5, Alma 11:9
+- silverlings (1) - 2 Nephi 17:23
+- upside (1) - 2 Nephi 27:27
+- withersoever (1) - Moroni 9:16
+- wrent (1) - Alma 14:27
+- ziff (2) - Mosiah 11:3, Mosiah 11:8

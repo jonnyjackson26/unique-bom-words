@@ -1,0 +1,1290 @@
+# Variation
+
+- abhorrest (1) - 2 Nephi 17:16
+- abhorreth (2) - 1 Nephi 21:7, 2 Nephi 9:49
+- abominations (77) - 1 Nephi 1:13, 1 Nephi 1:19, + 75 more
+- abridgement (1) - Mormon 5:9
+- accounts (1) - 3 Nephi 5:16
+- acknowledgeth (1) - Moroni 10:6
+- acres (1) - 2 Nephi 15:10
+- adminster (1) - Mosiah 4:16
+- admonitions (1) - 2 Nephi 4:13
+- adulterers (1) - 3 Nephi 24:5
+- advantages (1) - 3 Nephi 2:18
+- adversaries (5) - 2 Nephi 19:11, 2 Nephi 21:13, + 3 more
+- advocateth (1) - Moroni 7:28
+- affairs (18) - Mosiah 1:15, Mosiah 11:4, + 16 more
+- affections (1) - Alma 37:36
+- afflictions (79) - 1 Nephi 1:1, 1 Nephi 15:5, + 77 more
+- agates (1) - 3 Nephi 22:12
+- agreements (1) - Alma 37:27
+- allotteth (1) - Alma 29:4
+- altered (9) - Alma 11:4, Alma 49:11, + 7 more
+- altering (1) - Alma 51:3
+- ancients (3) - 2 Nephi 13:14, Ether 9:5, + 1 more
+- angels (54) - 1 Nephi 1:8, 1 Nephi 11:30, + 52 more
+- animals (5) - 1 Nephi 18:25, 2 Nephi 5:11, + 3 more
+- anothers (1) - Mosiah 18:8
+- answereth (1) - Alma 11:29
+- apostles (13) - 1 Nephi 11:34, 1 Nephi 11:35, + 11 more
+- appeared (7) - Mosiah 27:11, Mosiah 27:32, + 5 more
+- appeareth (3) - Jacob 2:5, Helaman 12:15, + 1 more
+- appears (1) - 1 Nephi 22:3
+- ariseth (2) - 2 Nephi 12:19, 2 Nephi 12:21
+- armies (151) - 1 Nephi 4:2, 1 Nephi 17:27, + 149 more
+- arrived (5) - 1 Nephi 17:14, Mosiah 21:26, + 3 more
+- arriven (3) - Mosiah 10:15, Alma 17:13, + 1 more
+- arrows (22) - 1 Nephi 16:14, 1 Nephi 16:15, + 20 more
+- arts (4) - 1 Nephi 16:38, Alma 10:15, + 2 more
+- ascendeth (7) - 1 Nephi 15:30, 2 Nephi 9:16, + 5 more
+- asketh (4) - 2 Nephi 4:35, 3 Nephi 12:42, + 2 more
+- assemblies (1) - 2 Nephi 14:5
+- asses (1) - Ether 9:19
+- assurances (1) - Alma 58:11
+- atoneth (4) - Mosiah 3:11, Mosiah 3:16, + 2 more
+- attempts (2) - Alma 49:22, Alma 55:29
+- availeth (3) - Mosiah 3:15, Alma 34:28, + 1 more
+- avengeth (2) - Mormon 8:41, Ether 8:22
+- awaiteth (1) - Helaman 13:6
+- awaits (1) - Alma 54:7
+- awaked (1) - Alma 5:7
+- awaketh (2) - 2 Nephi 27:3, 2 Nephi 27:3
+- babes (2) - 2 Nephi 13:4, 3 Nephi 26:16
+- bands (27) - 1 Nephi 7:17, 1 Nephi 7:18, + 25 more
+- banks (4) - 2 Nephi 18:7, Alma 48:8, + 2 more
+- barges (5) - Ether 2:6, Ether 2:16, + 3 more
+- barns (1) - 3 Nephi 13:26
+- bats (1) - 2 Nephi 12:20
+- battles (3) - Alma 25:3, Alma 53:2, + 1 more
+- beareth (7) - 1 Nephi 12:18, 3 Nephi 11:32, + 5 more
+- beasts (34) - 1 Nephi 7:16, 1 Nephi 16:31, + 32 more
+- becometh (11) - Jacob 4:6, Mosiah 2:37, + 9 more
+- beds (1) - 1 Nephi 18:17
+- bees (1) - Ether 2:3
+- began (425) - 1 Nephi 1:18, 1 Nephi 3:14, + 423 more
+- begat (42) - 1 Nephi 18:7, Ether 6:15, + 40 more
+- beggars (1) - Mosiah 4:19
+- begineth (1) - Jacob 5:37
+- beginneth (9) - Alma 32:28, Alma 32:28, + 7 more
+- beheldest (2) - Jacob 5:44, Jacob 5:45
+- beholdest (12) - 1 Nephi 11:14, 1 Nephi 12:10, + 10 more
+- behooveth (3) - 2 Nephi 10:3, Helaman 14:15, + 1 more
+- behoveth (1) - 2 Nephi 9:5
+- beings (2) - Mosiah 2:17, Mosiah 8:18
+- believers (4) - Alma 46:14, Alma 46:15, + 2 more
+- believest (20) - 1 Nephi 11:4, 1 Nephi 11:6, + 18 more
+- believeth (21) - 2 Nephi 6:14, Mosiah 3:18, + 19 more
+- bellowses (2) - 1 Nephi 17:11, 1 Nephi 17:11
+- belonged (12) - 1 Nephi 14:16, Mosiah 1:1, + 10 more
+- belongeth (6) - 1 Nephi 14:10, 1 Nephi 14:10, + 4 more
+- bestow (3) - 2 Nephi 9:3, Alma 34:38, + 1 more
+- bidden (1) - 2 Nephi 4:25
+- bindeth (2) - 1 Nephi 13:5, 2 Nephi 26:22
+- binds (2) - Alma 7:12, Alma 44:5
+- blades (1) - Mosiah 8:11
+- blessings (15) - 1 Nephi 17:2, 2 Nephi 1:10, + 13 more
+- blindeth (1) - 1 Nephi 12:17
+- blocks (1) - 1 Nephi 14:1
+- bloodsheds (7) - 2 Nephi 1:12, 2 Nephi 6:15, + 5 more
+- blossoms (2) - 2 Nephi 15:24, Mosiah 12:12
+- bloweth (2) - Mosiah 12:12, 3 Nephi 22:16
+- blows (5) - Alma 1:9, Alma 1:22, + 3 more
+- boastings (2) - Helaman 4:13, 3 Nephi 6:10
+- bodies (31) - 2 Nephi 9:4, 2 Nephi 9:12, + 29 more
+- bonds (9) - Mosiah 23:13, Mosiah 23:13, + 7 more
+- bones (9) - Omni 1:22, Mosiah 8:8, + 7 more
+- bonnets (1) - 2 Nephi 13:20
+- books (6) - 1 Nephi 5:11, 1 Nephi 13:39, + 4 more
+- borders (75) - 1 Nephi 2:5, 1 Nephi 2:5, + 73 more
+- borroweth (2) - Mosiah 4:28, Mosiah 4:28
+- boweth (1) - 2 Nephi 12:9
+- bows (13) - 1 Nephi 16:14, 1 Nephi 16:15, + 11 more
+- bracelets (2) - 2 Nephi 13:19, Alma 31:28
+- branches (53) - 1 Nephi 10:12, 1 Nephi 10:14, + 51 more
+- breaketh (3) - Mosiah 15:8, Alma 22:14, + 1 more
+- breasts (2) - Alma 32:28, Mormon 6:7
+- brethern (1) - Ether 2:15
+- bricks (1) - 2 Nephi 19:10
+- briers (6) - 2 Nephi 15:6, 2 Nephi 17:23, + 4 more
+- bringeth (42) - 1 Nephi 13:5, 2 Nephi 18:7, + 40 more
+- brothers (12) - 1 Nephi 2:5, 1 Nephi 2:16, + 10 more
+- bucklers (1) - 3 Nephi 3:26
+- buildeth (5) - Helaman 5:12, 3 Nephi 11:39, + 3 more
+- buildings (13) - 2 Nephi 5:15, 2 Nephi 26:5, + 11 more
+- burdeneth (1) - Jacob 2:9
+- burdens (10) - Mosiah 12:5, Mosiah 18:8, + 8 more
+- buried (21) - 1 Nephi 16:34, 1 Nephi 19:10, + 19 more
+- burneth (1) - 2 Nephi 19:18
+- burthens (1) - Jacob 2:23
+- bushes (1) - 2 Nephi 17:19
+- calleth (1) - Jacob 5:75
+- callings (1) - Moroni 3:4
+- calves (2) - 1 Nephi 22:24, 3 Nephi 25:2
+- camped (1) - 2 Nephi 26:15
+- camps (4) - Alma 47:13, Mormon 6:11, + 2 more
+- candles (1) - 3 Nephi 8:21
+- canst (10) - 1 Nephi 17:19, Jacob 5:27, + 8 more
+- captains (27) - Alma 2:13, Alma 2:13, + 25 more
+- captives (6) - 1 Nephi 21:24, 1 Nephi 21:25, + 4 more
+- carbuncles (1) - 3 Nephi 22:12
+- carcasses (2) - 2 Nephi 15:25, Ether 9:34
+- carriages (1) - 2 Nephi 20:28
+- carried (56) - 1 Nephi 1:8, 1 Nephi 1:13, + 54 more
+- carrieth (1) - 2 Nephi 33:1
+- cases (3) - Mosiah 27:5, Mosiah 29:20, + 1 more
+- casteth (1) - Moroni 8:16
+- causeth (8) - 2 Nephi 26:21, Jacob 2:6, + 6 more
+- caves (1) - 2 Nephi 12:19
+- ceased (17) - 2 Nephi 24:4, 2 Nephi 24:4, + 15 more
+- ceaseth (5) - 1 Nephi 7:14, 2 Nephi 26:11, + 3 more
+- cedars (3) - 2 Nephi 12:13, 2 Nephi 19:10, + 1 more
+- chains (15) - 2 Nephi 1:13, 2 Nephi 1:13, + 13 more
+- chances (1) - 3 Nephi 6:12
+- changeth (1) - Mormon 9:19
+- channels (1) - 2 Nephi 18:7
+- characters (1) - Mormon 9:32
+- charges (1) - Mosiah 6:3
+- chariots (7) - 2 Nephi 12:7, Alma 18:9, + 5 more
+- cheateth (1) - 2 Nephi 28:21
+- cheeks (6) - 2 Nephi 7:6, Mosiah 21:3, + 4 more
+- cherubims (3) - Alma 12:21, Alma 42:2, + 1 more
+- chickens (4) - 3 Nephi 10:4, 3 Nephi 10:5, + 2 more
+- chiefest (2) - 3 Nephi 3:18, 3 Nephi 7:10
+- chiefs (1) - 3 Nephi 7:14
+- choicest (1) - 2 Nephi 15:2
+- choirs (2) - Mosiah 2:28, Mormon 7:7
+- christians (4) - Alma 46:13, Alma 46:15, + 2 more
+- christs (3) - Jacob 1:4, Words of Mormon 1:15, + 1 more
+- churches (32) - 1 Nephi 13:5, 1 Nephi 13:26, + 30 more
+- circumcision (1) - Moroni 8:8
+- circumstances (13) - Alma 1:30, Alma 11:4, + 11 more
+- cities (76) - 1 Nephi 11:13, 1 Nephi 12:3, + 74 more
+- claimeth (5) - Alma 42:22, Alma 42:22, + 3 more
+- classes (1) - 4 Nephi 1:26
+- cleaveth (1) - Jacob 6:5
+- clefts (1) - 2 Nephi 12:21
+- closets (1) - Alma 34:26
+- clouds (2) - 2 Nephi 15:6, 2 Nephi 24:14
+- clubs (3) - Mosiah 9:16, Alma 17:36, + 1 more
+- coals (1) - 3 Nephi 22:16
+- cockatrices (2) - 2 Nephi 21:8, 2 Nephi 30:14
+- colors (1) - 3 Nephi 22:11
+- combinations (21) - 2 Nephi 9:9, 2 Nephi 26:22, + 19 more
+- comes (5) - Omni 1:25, Alma 12:24, + 3 more
+- comest (1) - Jacob 5:21
+- cometh (132) - 1 Nephi 13:42, 1 Nephi 14:7, + 130 more
+- comfortedst (1) - 2 Nephi 22:1
+- comforteth (1) - 2 Nephi 8:12
+- commandest (1) - Alma 22:20
+- commandeth (11) - 1 Nephi 3:7, 2 Nephi 9:23, + 9 more
+- commanding (2) - 2 Nephi 1:27, Mosiah 28:20
+- commandments (207) - 1 Nephi 2:10, 1 Nephi 2:20, + 205 more
+- commands (9) - Jacob 2:10, Jacob 2:16, + 7 more
+- commiting (1) - Alma 1:32
+- committeth (1) - 3 Nephi 12:32
+- commmandments (1) - 1 Nephi 4:17
+- complained (3) - 1 Nephi 5:2, 1 Nephi 5:3, + 1 more
+- complaints (1) - Mosiah 21:6
+- comprehendeth (1) - Alma 26:35
+- concourses (3) - 1 Nephi 1:8, 1 Nephi 8:21, + 1 more
+- concubines (9) - Jacob 1:15, Jacob 2:24, + 7 more
+- condemneth (4) - Jacob 2:14, Alma 41:15, + 2 more
+- conditions (13) - Mosiah 4:8, Mosiah 4:8, + 11 more
+- confesses (1) - Moroni 7:44
+- congregations (1) - Alma 33:9
+- conquerors (1) - Jacob 7:25
+- consequences (4) - 2 Nephi 9:48, Jacob 3:12, + 2 more
+- considerest (1) - 3 Nephi 14:3
+- consisted (3) - 1 Nephi 2:5, Alma 3:6, + 1 more
+- consisting (1) - Mosiah 2:5
+- consists (1) - 1 Nephi 1:2
+- consoling (1) - Jacob 2:9
+- constellations (1) - 2 Nephi 23:10
+- constraineth (2) - 1 Nephi 7:15, Alma 14:11
+- consumeth (2) - 2 Nephi 15:24, 2 Nephi 26:7
+- containeth (1) - 1 Nephi 13:23
+- contains (2) - 1 Nephi 13:23, 2 Nephi 29:10
+- contendeth (2) - 1 Nephi 21:25, 2 Nephi 6:17
+- contentions (55) - 1 Nephi 9:4, 1 Nephi 9:4, + 53 more
+- conversed (3) - Alma 9:21, Alma 12:30, + 1 more
+- conversing (2) - 3 Nephi 11:2, 3 Nephi 11:3
+- conveyed (1) - Helaman 10:16
+- cords (14) - 1 Nephi 7:16, 1 Nephi 18:11, + 12 more
+- corners (2) - 2 Nephi 21:12, 3 Nephi 13:5
+- counseleth (1) - Jacob 4:10
+- counselled (1) - Mosiah 17:6
+- counsellor (1) - 2 Nephi 19:6
+- counsels (5) - 1 Nephi 19:7, 2 Nephi 9:29, + 3 more
+- countenances (2) - Alma 5:14, Alma 5:19
+- countries (8) - 2 Nephi 1:5, 2 Nephi 18:9, + 6 more
+- covenanteth (1) - 2 Nephi 30:2
+- covenants (30) - 1 Nephi 13:23, 1 Nephi 13:23, + 28 more
+- cows (1) - Ether 9:18
+- cracks (2) - Helaman 14:22, 3 Nephi 8:18
+- creatures (3) - 2 Nephi 23:21, Mosiah 4:11, + 1 more
+- creditors (1) - 2 Nephi 7:1
+- cries (18) - Jacob 2:32, Mosiah 9:18, + 16 more
+- crieth (2) - 2 Nephi 28:25, Alma 5:51
+- crimes (11) - Jacob 2:9, Jacob 2:23, + 9 more
+- crops (1) - Alma 34:24
+- crosses (1) - 2 Nephi 9:18
+- crucified (3) - 1 Nephi 19:10, 2 Nephi 10:5, + 1 more
+- cumbered (1) - Jacob 5:44
+- cures (1) - 3 Nephi 26:15
+- curseth (2) - 1 Nephi 17:38, Helaman 13:31
+- cursings (1) - Jacob 3:5
+- curtains (1) - 3 Nephi 22:2
+- cuts (1) - Mosiah 13:7
+- cutteth (1) - 1 Nephi 16:2
+- daggers (1) - Jacob 2:9
+- danced (1) - Ether 8:11
+- darkest (2) - Mosiah 27:29, Alma 26:3
+- darknesss (1) - 2 Nephi 27:29
+- darts (1) - 1 Nephi 15:24
+- daughters (75) - 1 Nephi 7:1, 1 Nephi 7:6, + 73 more
+- days (209) - 1 Nephi 1:1, 1 Nephi 1:1, + 207 more
+- dealings (3) - 1 Nephi 2:12, Mosiah 10:14, + 1 more
+- deaths (1) - 3 Nephi 10:14
+- debtors (1) - 3 Nephi 13:11
+- debts (1) - 3 Nephi 13:11
+- deceits (1) - 3 Nephi 16:10
+- deceivings (5) - Alma 16:18, 3 Nephi 1:22, + 3 more
+- declareth (1) - Helaman 13:26
+- decrees (6) - 2 Nephi 20:1, Alma 29:4, + 4 more
+- decreeth (1) - Alma 29:4
+- deeds (6) - Mosiah 4:30, Alma 5:15, + 4 more
+- defence (13) - 2 Nephi 14:5, Jacob 1:10, + 11 more
+- degrees (2) - Mosiah 21:16, Alma 47:18
+- delays (1) - 3 Nephi 29:2
+- delighteth (13) - 2 Nephi 4:16, 2 Nephi 9:37, + 11 more
+- delighting (1) - Mosiah 24:7
+- delivereth (1) - 2 Nephi 9:19
+- demands (8) - 2 Nephi 9:26, Mosiah 2:38, + 6 more
+- demons (1) - Helaman 13:37
+- denied (9) - Jacob 6:10, Jacob 7:17, + 7 more
+- deniest (1) - Jacob 7:9
+- denieth (6) - 2 Nephi 26:33, 2 Nephi 28:26, + 4 more
+- dens (1) - 4 Nephi 1:33
+- denying (7) - 2 Nephi 25:28, Alma 39:5, + 5 more
+- departed (46) - 1 Nephi 2:4, 1 Nephi 2:4, + 44 more
+- departeth (1) - Alma 3:17
+- dependant (1) - Mosiah 4:21
+- depended (1) - Mosiah 10:11
+- deposited (2) - Mormon 1:3, Mormon 2:17
+- depressed (2) - Alma 26:27, Alma 56:16
+- depths (29) - 1 Nephi 8:32, 1 Nephi 12:16, + 27 more
+- descendants (7) - Mosiah 25:2, Mosiah 25:13, + 5 more
+- descended (5) - 1 Nephi 14:14, 2 Nephi 31:8, + 3 more
+- descending (6) - 1 Nephi 1:9, 1 Nephi 11:7, + 4 more
+- descends (1) - 3 Nephi 18:13
+- deseret (1) - Ether 2:3
+- deserts (1) - 1 Nephi 20:21
+- designs (7) - Alma 10:17, Alma 43:7, + 5 more
+- desires (44) - 1 Nephi 2:16, 1 Nephi 13:8, + 42 more
+- desirest (8) - 1 Nephi 11:2, 1 Nephi 11:10, + 6 more
+- desireth (8) - Mosiah 12:25, Mosiah 29:26, + 6 more
+- despisers (1) - Mormon 9:26
+- despiseth (2) - 1 Nephi 21:7, 2 Nephi 9:42
+- destroyers (1) - 1 Nephi 21:17
+- destroyeth (2) - 1 Nephi 17:37, 1 Nephi 17:38
+- destructions (9) - 1 Nephi 15:5, 1 Nephi 19:4, + 7 more
+- devices (3) - Alma 10:13, Alma 30:42, + 1 more
+- devils (9) - 1 Nephi 11:31, 1 Nephi 11:31, + 7 more
+- devises (1) - Alma 11:21
+- devlish (2) - Mosiah 16:3, Mosiah 16:3
+- devoureth (1) - 2 Nephi 15:24
+- didst (18) - 1 Nephi 20:6, Jacob 5:34, + 16 more
+- died (46) - 1 Nephi 16:34, 1 Nephi 17:20, + 44 more
+- dies (1) - Mormon 8:38
+- dieth (6) - Mosiah 2:33, Mosiah 2:38, + 4 more
+- digging (2) - Alma 50:1, Alma 53:3
+- dimmed (1) - 1 Nephi 5:19
+- directions (3) - 1 Nephi 16:16, 1 Nephi 16:30, + 1 more
+- directors (2) - Alma 37:21, Alma 37:24
+- disadvantages (1) - Mosiah 29:35
+- disciples (53) - 1 Nephi 12:8, 2 Nephi 18:16, + 51 more
+- diseases (5) - 1 Nephi 11:31, Mosiah 3:5, + 3 more
+- disputations (11) - 1 Nephi 15:6, 3 Nephi 8:4, + 9 more
+- disputings (1) - 3 Nephi 6:10
+- dissensions (10) - Alma 53:8, Alma 53:9, + 8 more
+- dissented (10) - Alma 43:13, Alma 46:7, + 8 more
+- dissenters (20) - Alma 31:8, Alma 47:35, + 18 more
+- dissention (3) - Mosiah 27:9, Alma 34:2, + 1 more
+- dissentions (9) - Jarom 1:13, Words of Mormon 1:16, + 7 more
+- disturbances (3) - Alma 11:20, Alma 45:21, + 1 more
+- ditches (1) - Alma 49:22
+- divides (1) - Ether 10:20
+- divideth (2) - 1 Nephi 12:18, Ether 2:13
+- divisions (1) - Helaman 1:4
+- doctrines (4) - 2 Nephi 3:12, 2 Nephi 28:9, + 2 more
+- doest (1) - 3 Nephi 13:3
+- doeth (24) - 2 Nephi 26:24, 2 Nephi 26:32, + 22 more
+- dogs (4) - Mosiah 12:2, Alma 16:10, + 2 more
+- doors (1) - Helaman 8:27
+- doth (144) - 1 Nephi 15:31, 1 Nephi 15:31, + 142 more
+- doubtings (1) - 3 Nephi 8:4
+- draweth (5) - Jacob 5:29, Jacob 5:47, + 3 more
+- dreamed (2) - 1 Nephi 3:2, 1 Nephi 8:2
+- dreameth (2) - 2 Nephi 27:3, 2 Nephi 27:3
+- dreams (2) - 1 Nephi 1:16, Alma 30:28
+- drew (11) - 1 Nephi 4:9, Mosiah 19:4, + 9 more
+- drinketh (7) - 2 Nephi 27:3, Mosiah 2:33, + 5 more
+- dungeons (2) - Mosiah 2:13, Alma 8:31
+- dwellest (2) - 2 Nephi 20:24, Ether 3:2
+- dwelleth (9) - 2 Nephi 18:18, Mosiah 2:37, + 7 more
+- dwellings (1) - 3 Nephi 10:7
+- dwells (1) - Alma 18:30
+- dwelt (33) - 1 Nephi 1:4, 1 Nephi 1:6, + 31 more
+- ears (10) - 1 Nephi 21:20, 2 Nephi 15:9, + 8 more
+- earthquakes (4) - 1 Nephi 12:4, 2 Nephi 6:15, + 2 more
+- eased (1) - Mosiah 24:21
+- easier (1) - Alma 59:9
+- eateth (3) - 2 Nephi 27:3, 3 Nephi 18:29, + 1 more
+- effects (2) - Mosiah 7:30, Alma 30:16
+- eggs (1) - 2 Nephi 20:14
+- egyptians (8) - 1 Nephi 1:2, 1 Nephi 4:3, + 6 more
+- elders (9) - 1 Nephi 4:22, 1 Nephi 4:27, + 7 more
+- elements (2) - 3 Nephi 26:3, Mormon 9:2
+- elephants (2) - Ether 9:19, Ether 9:19
+- embarrassments (1) - Alma 58:9
+- embassies (1) - Alma 52:20
+- employeth (1) - 2 Nephi 9:41
+- emptied (2) - 1 Nephi 2:8, 1 Nephi 2:9
+- enacteth (1) - Mosiah 29:23
+- encircles (1) - Alma 34:16
+- ended (59) - Mosiah 19:24, Mosiah 29:47, + 57 more
+- endeth (1) - Alma 3:27
+- ends (29) - 1 Nephi 21:6, 2 Nephi 2:7, + 27 more
+- endureth (11) - 2 Nephi 31:15, Alma 32:13, + 9 more
+- enemies (82) - 1 Nephi 22:17, 2 Nephi 4:22, + 80 more
+- energies (1) - 1 Nephi 15:25
+- engravened (1) - 2 Nephi 5:32
+- engravings (12) - 1 Nephi 4:24, 1 Nephi 13:23, + 10 more
+- entereth (1) - 3 Nephi 27:19
+- enticeth (3) - Moroni 7:12, Moroni 7:13, + 1 more
+- enticings (2) - 2 Nephi 9:39, Mosiah 3:19
+- entrusted (5) - Alma 37:1, Alma 37:14, + 3 more
+- envieth (1) - Moroni 7:45
+- envyings (8) - 2 Nephi 26:21, Alma 1:32, + 6 more
+- erred (1) - 2 Nephi 27:35
+- errors (1) - Alma 31:9
+- escaped (5) - 2 Nephi 14:2, 2 Nephi 20:20, + 3 more
+- esteemeth (1) - 1 Nephi 17:35
+- evidences (2) - Alma 11:2, Helaman 8:24
+- evils (1) - Ether 7:13
+- examples (2) - Jacob 2:35, Alma 17:11
+- excedingly (1) - Jacob 2:22
+- exclaimed (1) - Mosiah 18:11
+- exclaimeth (1) - 2 Nephi 4:17
+- executeth (3) - 2 Nephi 9:17, Mosiah 17:19, + 1 more
+- exerciseth (3) - Alma 26:22, Alma 34:16, + 1 more
+- eyes (89) - 1 Nephi 8:13, 1 Nephi 8:17, + 87 more
+- faces (7) - 2 Nephi 6:7, 2 Nephi 13:15, + 5 more
+- faculties (3) - Jacob 3:11, Mosiah 29:14, + 1 more
+- fadeth (1) - Helaman 5:8
+- faileth (1) - Moroni 7:46
+- fainted (6) - 2 Nephi 8:20, Alma 57:25, + 4 more
+- fainteth (1) - 2 Nephi 20:18
+- falleth (2) - Alma 32:19, Helaman 13:5
+- families (20) - 1 Nephi 7:6, 1 Nephi 16:14, + 18 more
+- famines (3) - 2 Nephi 10:6, Alma 45:11, + 1 more
+- fared (1) - Alma 30:17
+- farthermost (1) - 3 Nephi 4:23
+- fasted (5) - Mosiah 27:23, Alma 5:46, + 3 more
+- fastest (1) - 3 Nephi 13:17
+- fathers (187) - 1 Nephi 3:16, 1 Nephi 3:19, + 185 more
+- fatlings (3) - Mosiah 11:3, Alma 1:29, + 1 more
+- faults (4) - Alma 39:13, 3 Nephi 1:25, + 2 more
+- favors (2) - 3 Nephi 10:18, Ether 7:22
+- feareth (1) - 2 Nephi 7:10
+- fearing (7) - Mosiah 20:3, Mosiah 21:19, + 5 more
+- fears (2) - 1 Nephi 4:37, Mosiah 23:28
+- feasts (1) - 2 Nephi 15:12
+- feedeth (1) - 3 Nephi 13:26
+- feelings (2) - 2 Nephi 4:12, Jacob 2:7
+- fellow-laborers (2) - Mosiah 26:38, Alma 31:32
+- fevers (2) - Alma 46:40, Alma 46:40
+- fields (11) - Mosiah 9:12, Mosiah 9:14, + 9 more
+- fighteth (4) - 2 Nephi 10:13, 2 Nephi 10:16, + 2 more
+- figs (1) - 3 Nephi 14:16
+- filleth (1) - Moroni 8:26
+- fills (1) - Mormon 6:7
+- findeth (4) - Mosiah 5:10, Alma 32:13, + 2 more
+- fingers (3) - 1 Nephi 8:27, 1 Nephi 17:52, + 1 more
+- fir-trees (1) - 2 Nephi 24:8
+- fire-brands (1) - 2 Nephi 17:4
+- fires (1) - Mormon 8:29
+- firmer (2) - Helaman 3:35, Helaman 3:35
+- firstlings (1) - Mosiah 2:3
+- firstly (3) - Jacob 1:17, Alma 21:4, + 1 more
+- fists (1) - Alma 1:22
+- flames (9) - 2 Nephi 9:16, 2 Nephi 23:8, + 7 more
+- flattereth (1) - 2 Nephi 28:22
+- flatteries (1) - Alma 46:5
+- fleeing (2) - Alma 2:25, Alma 62:25
+- fleeth (3) - Mosiah 8:21, Alma 14:29, + 1 more
+- flocks (77) - 2 Nephi 5:11, Enos 1:21, + 75 more
+- floods (7) - 3 Nephi 11:40, 3 Nephi 14:25, + 5 more
+- foes (1) - Alma 57:25
+- followers (7) - 2 Nephi 28:14, Alma 4:15, + 5 more
+- fools (4) - 2 Nephi 9:42, 2 Nephi 29:4, + 2 more
+- forbade (1) - 3 Nephi 28:25
+- forbidden (22) - 1 Nephi 8:28, 1 Nephi 14:28, + 20 more
+- forces (11) - Mosiah 9:1, Mosiah 19:2, + 9 more
+- forefathers (4) - 1 Nephi 3:3, 1 Nephi 15:14, + 2 more
+- foreheads (3) - Alma 3:4, Alma 3:13, + 1 more
+- forests (4) - 1 Nephi 18:25, 2 Nephi 19:18, + 2 more
+- foretold (1) - 2 Nephi 25:9
+- forever (98) - 1 Nephi 10:18, 1 Nephi 10:21, + 96 more
+- forgetest (1) - 2 Nephi 8:13
+- forgiveth (1) - Mosiah 26:31
+- fortifications (10) - Alma 48:9, Alma 50:10, + 8 more
+- fortified (6) - Alma 49:13, Alma 51:27, + 4 more
+- fortifying (1) - Alma 50:11
+- forts (5) - 2 Nephi 26:15, Alma 48:8, + 3 more
+- forty-three (1) - Mosiah 9:18
+- foundations (5) - 2 Nephi 8:13, 2 Nephi 8:16, + 3 more
+- fountains (1) - Mormon 6:4
+- fowls (3) - 2 Nephi 2:15, 3 Nephi 13:26, + 1 more
+- fragments (2) - Helaman 14:22, 3 Nephi 8:18
+- frailties (1) - 2 Nephi 9:28
+- frames (1) - 1 Nephi 2:14
+- freemen (6) - Alma 51:6, Alma 51:6, + 4 more
+- friends (20) - Mosiah 4:4, Mosiah 29:22, + 18 more
+- fruits (12) - 1 Nephi 8:1, 1 Nephi 15:36, + 10 more
+- fulfilleth (3) - 3 Nephi 20:27, 3 Nephi 27:18, + 1 more
+- fullers (2) - 2 Nephi 17:3, 3 Nephi 24:2
+- fulness (31) - 1 Nephi 10:14, 1 Nephi 15:13, + 29 more
+- furnaces (1) - 4 Nephi 1:32
+- garments (36) - 1 Nephi 4:19, 1 Nephi 4:21, + 34 more
+- garners (1) - Alma 26:5
+- gates (10) - 2 Nephi 4:32, 2 Nephi 4:32, + 8 more
+- gathereth (7) - 1 Nephi 22:25, 2 Nephi 20:14, + 5 more
+- generations (19) - 1 Nephi 12:3, 1 Nephi 12:11, + 17 more
+- gentiles (141) - 1 Nephi 10:11, 1 Nephi 10:12, + 139 more
+- getteth (1) - Helaman 12:19
+- gifts (14) - 1 Nephi 15:36, Alma 9:21, + 12 more
+- girted (1) - 1 Nephi 4:21
+- giveth (11) - 1 Nephi 3:7, 1 Nephi 10:22, + 9 more
+- glasses (1) - 2 Nephi 13:23
+- glutting (1) - Alma 30:31
+- goats (3) - Enos 1:21, Enos 1:21, + 1 more
+- gods (4) - Alma 12:18, Alma 12:31, + 2 more
+- goes (1) - Mosiah 16:5
+- goest (2) - Jacob 7:6, Alma 37:36
+- goeth (4) - 1 Nephi 13:29, 1 Nephi 13:29, + 2 more
+- governments (2) - Alma 43:17, Helaman 5:2
+- governors (1) - Alma 60:33
+- grafts (1) - Jacob 5:64
+- granteth (2) - Mosiah 26:23, Alma 29:4
+- grapes (5) - 2 Nephi 15:2, 2 Nephi 15:2, + 3 more
+- grasps (1) - 2 Nephi 28:22
+- graven (6) - 1 Nephi 20:5, 1 Nephi 21:16, + 4 more
+- graves (3) - Helaman 14:25, Ether 6:19, + 1 more
+- greater (31) - 1 Nephi 19:4, 1 Nephi 20:22, + 29 more
+- greatest (10) - 1 Nephi 15:36, 2 Nephi 3:1, + 8 more
+- griefs (1) - Mosiah 14:4
+- grieves (1) - Alma 61:2
+- grieveth (15) - 2 Nephi 4:17, 2 Nephi 26:11, + 13 more
+- groaned (1) - 3 Nephi 17:14
+- groaneth (1) - 2 Nephi 4:19
+- groanings (3) - 1 Nephi 19:12, 3 Nephi 8:23, + 1 more
+- grosser (2) - Jacob 2:22, Jacob 2:23
+- grossest (1) - Alma 26:24
+- grounds (4) - Alma 5:10, Alma 30:7, + 2 more
+- groves (1) - 3 Nephi 21:18
+- groweth (2) - Alma 32:32, Alma 32:32
+- guards (30) - Mosiah 7:10, Mosiah 7:11, + 28 more
+- guides (1) - Helaman 13:29
+- gushed (1) - 1 Nephi 20:21
+- habitations (1) - 3 Nephi 22:2
+- hadst (1) - 1 Nephi 20:18
+- hairs (1) - 1 Nephi 18:18
+- halfs (1) - Alma 22:32
+- halted (3) - Alma 56:42, Alma 56:43, + 1 more
+- handing (1) - Mosiah 28:20
+- handmaids (1) - 2 Nephi 24:2
+- hands (197) - 1 Nephi 1:17, 1 Nephi 3:26, + 195 more
+- hangeth (2) - Helaman 13:5, Mormon 8:41
+- happened (15) - Mosiah 8:2, Mosiah 19:22, + 13 more
+- happier (2) - Alma 50:23, 4 Nephi 1:16
+- hardeneth (2) - 1 Nephi 12:17, Alma 12:34
+- harder (1) - Alma 21:3
+- harlots (8) - 1 Nephi 13:7, 1 Nephi 13:8, + 6 more
+- harrass (4) - Alma 51:32, Alma 52:9, + 2 more
+- has (78) - 1 Nephi 6:1, 1 Nephi 17:43, + 76 more
+- hasteneth (1) - 2 Nephi 8:14
+- hath (806) - 1 Nephi 1:16, 1 Nephi 1:16, + 804 more
+- heads (37) - 1 Nephi 22:13, 1 Nephi 22:13, + 35 more
+- healeth (1) - Jacob 2:8
+- healings (2) - 3 Nephi 25:2, 3 Nephi 29:6
+- heapeth (1) - Alma 5:30
+- heaps (4) - Alma 28:11, Alma 50:1, + 2 more
+- heardest (2) - 1 Nephi 20:7, 1 Nephi 20:8
+- hearers (1) - Alma 1:26
+- hearest (2) - Helaman 8:2, 3 Nephi 19:22
+- heareth (2) - 3 Nephi 14:24, 3 Nephi 14:26
+- hearkened (11) - 1 Nephi 3:28, 1 Nephi 7:9, + 9 more
+- hearkeneth (3) - 2 Nephi 28:26, Alma 5:41, + 1 more
+- hearts (278) - 1 Nephi 2:18, 1 Nephi 7:8, + 276 more
+- heavens (38) - 1 Nephi 1:8, 1 Nephi 1:14, + 36 more
+- heights (2) - 2 Nephi 17:11, 2 Nephi 24:14
+- heirs (2) - Mosiah 15:11, 4 Nephi 1:17
+- helped (1) - 1 Nephi 21:8
+- hemmed (1) - Alma 22:33
+- herds (23) - 2 Nephi 5:11, Enos 1:21, + 21 more
+- heritages (1) - 1 Nephi 21:8
+- heweth (1) - 2 Nephi 20:15
+- hideth (6) - 2 Nephi 18:17, Helaman 12:18, + 4 more
+- higher (4) - Mosiah 29:28, Mosiah 29:29, + 2 more
+- highways (4) - 1 Nephi 21:11, Helaman 14:24, + 2 more
+- hills (9) - 2 Nephi 12:2, 2 Nephi 12:14, + 7 more
+- hilts (1) - Mosiah 8:11
+- hindereth (1) - 2 Nephi 24:6
+- hinderment (1) - Mosiah 27:9
+- hinted (1) - Alma 54:22
+- holds (16) - Alma 50:6, Alma 50:11, + 14 more
+- holes (2) - 2 Nephi 12:19, 2 Nephi 17:19
+- homes (5) - Alma 31:23, Alma 43:45, + 3 more
+- hoods (1) - 2 Nephi 13:23
+- hoofs (2) - 2 Nephi 15:28, 3 Nephi 20:19
+- hooks (1) - 2 Nephi 12:4
+- hoops (1) - 3 Nephi 20:19
+- hopes (7) - 1 Nephi 16:5, Alma 7:3, + 5 more
+- hopeth (1) - Moroni 7:45
+- horses (13) - 2 Nephi 12:7, 2 Nephi 15:28, + 11 more
+- hosts (64) - 1 Nephi 20:2, 1 Nephi 20:2, + 62 more
+- hours (10) - 1 Nephi 8:8, Helaman 12:14, + 8 more
+- houses (22) - 2 Nephi 13:14, 2 Nephi 15:9, + 20 more
+- howlings (3) - 3 Nephi 8:25, Ether 15:16, + 1 more
+- humbleth (4) - 2 Nephi 12:9, 2 Nephi 31:7, + 2 more
+- hungered (4) - Enos 1:4, Alma 8:19, + 2 more
+- husbands (10) - Jacob 2:31, Jacob 3:7, + 8 more
+- hushed (1) - Mosiah 23:28
+- hypocrites (6) - Alma 10:17, Alma 34:28, + 4 more
+- idolatries (2) - 3 Nephi 30:2, Ether 7:26
+- idols (13) - 2 Nephi 9:37, 2 Nephi 12:8, + 11 more
+- images (3) - 2 Nephi 20:10, 3 Nephi 21:17, + 1 more
+- imaginations (3) - 1 Nephi 2:11, 1 Nephi 12:18, + 1 more
+- immoveable (2) - Alma 1:25, 3 Nephi 6:14
+- imparteth (1) - Alma 32:23
+- imperfections (2) - Mormon 8:12, Mormon 9:31
+- infirmities (5) - Mosiah 2:11, Alma 7:12, + 3 more
+- inflicteth (1) - Alma 42:22
+- information (1) - Alma 47:36
+- inhabitants (42) - 1 Nephi 1:13, 1 Nephi 1:14, + 40 more
+- iniquities (92) - 1 Nephi 3:29, 1 Nephi 18:15, + 90 more
+- injuries (1) - Mosiah 27:35
+- inquired (16) - 1 Nephi 15:8, Jacob 2:11, + 14 more
+- insects (1) - Mosiah 12:6
+- instances (4) - 2 Nephi 28:14, Alma 31:11, + 2 more
+- instructions (2) - Alma 49:8, Ether 2:16
+- instruments (4) - Mosiah 27:36, Alma 26:3, + 2 more
+- insurrections (1) - Alma 60:27
+- intentions (1) - Alma 50:31
+- intents (3) - Mosiah 5:13, Alma 12:7, + 1 more
+- interpreters (4) - Mosiah 8:13, Mosiah 8:19, + 2 more
+- intrigues (1) - Alma 55:27
+- inviteth (5) - 2 Nephi 26:33, Moroni 7:12, + 3 more
+- islands (3) - 2 Nephi 21:11, 2 Nephi 23:22, + 1 more
+- isles (11) - 1 Nephi 19:10, 1 Nephi 19:12, + 9 more
+- its (39) - 1 Nephi 14:12, 1 Nephi 17:5, + 37 more
+- jewels (1) - 3 Nephi 24:17
+- jews (75) - 1 Nephi 1:2, 1 Nephi 1:19, + 73 more
+- joins (1) - Alma 27:22
+- joints (1) - 1 Nephi 19:20
+- journeyed (2) - 1 Nephi 17:12, Alma 17:9
+- journeyings (6) - 1 Nephi 17:2, 1 Nephi 19:1, + 4 more
+- journeys (1) - Alma 17:18
+- judges (140) - Mosiah 29:11, Mosiah 29:11, + 138 more
+- judgeth (3) - Mosiah 3:18, Alma 11:2, + 1 more
+- judgments (28) - 1 Nephi 12:5, 1 Nephi 17:22, + 26 more
+- justified (2) - 1 Nephi 16:2, 2 Nephi 2:5
+- justifieth (3) - 2 Nephi 7:8, Jacob 2:14, + 1 more
+- keepeth (2) - Mosiah 29:22, Alma 7:16
+- keys (1) - 1 Nephi 4:20
+- killeth (1) - 2 Nephi 9:35
+- kindleth (1) - 2 Nephi 7:11
+- kindreds (20) - 1 Nephi 5:18, 1 Nephi 11:36, + 18 more
+- kinds (4) - Jacob 5:32, Helaman 6:11, + 2 more
+- kingdoms (9) - 1 Nephi 13:1, 1 Nephi 13:2, + 7 more
+- kings (43) - 1 Nephi 9:4, 1 Nephi 9:4, + 41 more
+- kinsfolks (3) - Alma 10:11, Mormon 8:5, + 1 more
+- kneeled (1) - Enos 1:4
+- knees (2) - Alma 19:14, Alma 22:17
+- knelt (4) - 3 Nephi 17:14, 3 Nephi 17:15, + 2 more
+- knewest (1) - 1 Nephi 20:8
+- knocketh (3) - 2 Nephi 9:42, 3 Nephi 14:8, + 1 more
+- knowest (28) - 1 Nephi 11:5, 1 Nephi 11:16, + 26 more
+- knoweth (46) - 1 Nephi 9:6, 1 Nephi 22:4, + 44 more
+- known (107) - 1 Nephi 2:17, 1 Nephi 5:4, + 105 more
+- knows (4) - Alma 12:3, Alma 18:18, + 2 more
+- labors (21) - 2 Nephi 29:4, Enos 1:20, + 19 more
+- laboured (2) - Jacob 1:7, Jacob 1:10
+- lacking (1) - 1 Nephi 17:19
+- ladders (2) - Alma 62:21, Alma 62:23
+- lambs (1) - 2 Nephi 15:17
+- lamentations (3) - Alma 4:13, 3 Nephi 10:10, + 1 more
+- lands (105) - 1 Nephi 2:20, 1 Nephi 13:30, + 103 more
+- languages (4) - Omni 1:25, Mosiah 8:6, + 2 more
+- larger (1) - Jacob 3:13
+- lasted (2) - Helaman 14:27, Ether 9:12
+- laughed (1) - Alma 26:23
+- laugheth (1) - 3 Nephi 9:2
+- launched (1) - Alma 63:5
+- laws (28) - Jarom 1:5, Mosiah 4:14, + 26 more
+- lawyers (17) - Alma 10:14, Alma 10:15, + 15 more
+- layeth (3) - 2 Nephi 2:8, 2 Nephi 26:24, + 1 more
+- leaders (16) - 2 Nephi 19:16, Jarom 1:7, + 14 more
+- leadeth (10) - 1 Nephi 12:17, 1 Nephi 17:38, + 8 more
+- leads (5) - 2 Nephi 31:18, 2 Nephi 33:9, + 3 more
+- leaned (1) - Ether 15:30
+- leaped (1) - Alma 15:11
+- legs (2) - 2 Nephi 13:20, Alma 49:24
+- letting (1) - Helaman 7:5
+- liars (1) - Alma 1:17
+- liberties (2) - Alma 43:26, Alma 43:45
+- lied (9) - Jacob 7:19, Jacob 7:19, + 7 more
+- lies (4) - 2 Nephi 2:18, 2 Nephi 9:9, + 2 more
+- liest (1) - Alma 37:37
+- lieth (5) - 1 Nephi 16:38, 2 Nephi 9:41, + 3 more
+- lightnings (9) - 1 Nephi 12:4, 1 Nephi 19:11, + 7 more
+- lilies (1) - 3 Nephi 13:28
+- limbs (5) - 2 Nephi 1:14, Mosiah 27:22, + 3 more
+- lions (3) - 2 Nephi 15:29, Mosiah 20:10, + 1 more
+- lips (6) - 2 Nephi 16:5, 2 Nephi 16:5, + 4 more
+- liquors (1) - Alma 55:32
+- listened (1) - Mosiah 22:4
+- listeth (5) - Mosiah 2:33, Mosiah 2:33, + 3 more
+- lived (11) - 2 Nephi 5:27, Omni 1:23, + 9 more
+- livest (2) - Alma 19:13, Alma 22:8
+- liveth (21) - 1 Nephi 3:15, 1 Nephi 4:32, + 19 more
+- loins (34) - 1 Nephi 4:19, 1 Nephi 4:21, + 32 more
+- looked (29) - 1 Nephi 8:14, 1 Nephi 11:8, + 27 more
+- looketh (2) - Alma 18:32, 3 Nephi 12:28
+- looking (5) - Jacob 4:14, Alma 4:14, + 3 more
+- looks (3) - 2 Nephi 12:11, 2 Nephi 20:12, + 1 more
+- lords (3) - 2 Nephi 12:2, 2 Nephi 28:3, + 1 more
+- lots (1) - 1 Nephi 3:11
+- lovest (1) - Alma 11:24
+- loveth (6) - 1 Nephi 11:17, 1 Nephi 17:40, + 4 more
+- lusts (3) - 1 Nephi 22:23, Alma 39:9, + 1 more
+- lyings (9) - Alma 16:18, Alma 20:13, + 7 more
+- madest (1) - Ether 12:24
+- magics (1) - Mormon 1:19
+- maidservants (1) - Alma 50:30
+- maketh (8) - 1 Nephi 15:9, 2 Nephi 4:34, + 6 more
+- man-servant (2) - Mosiah 13:18, Mosiah 13:24
+- manifestations (4) - Mosiah 5:3, Mormon 3:16, + 2 more
+- manifesteth (2) - 2 Nephi 26:13, Jacob 4:11
+- mans (8) - 2 Nephi 18:1, 2 Nephi 23:7, + 6 more
+- mansions (4) - Enos 1:27, Ether 12:32, + 2 more
+- mantles (1) - 2 Nephi 13:22
+- marched (15) - Alma 16:7, Alma 43:25, + 13 more
+- marred (2) - 3 Nephi 20:44, 3 Nephi 21:10
+- marvelled (4) - Alma 18:18, Alma 22:23, + 2 more
+- marvelling (1) - 3 Nephi 11:1
+- marvellings (2) - Alma 18:16, Alma 18:17
+- marvellous (53) - 1 Nephi 1:14, 1 Nephi 1:14, + 51 more
+- masters (1) - 3 Nephi 13:24
+- mattereth (13) - 1 Nephi 6:3, Jacob 5:8, + 11 more
+- matters (2) - Mosiah 13:9, Alma 5:58
+- mayest (8) - 1 Nephi 21:6, 1 Nephi 21:9, + 6 more
+- meaneth (16) - 1 Nephi 15:13, 1 Nephi 15:17, + 14 more
+- means (46) - 1 Nephi 16:29, 1 Nephi 17:3, + 44 more
+- meetings (1) - Moroni 6:9
+- mens (1) - Ether 10:5
+- merchants (1) - 3 Nephi 6:11
+- mercies (18) - 1 Nephi 1:20, 1 Nephi 8:8, + 16 more
+- merits (5) - 2 Nephi 2:8, 2 Nephi 31:19, + 3 more
+- messengers (3) - 2 Nephi 24:32, Alma 43:24, + 1 more
+- metals (2) - Helaman 6:9, Ether 10:23
+- mightest (6) - 1 Nephi 2:9, 1 Nephi 2:10, + 4 more
+- mightier (5) - 1 Nephi 4:1, 1 Nephi 4:1, + 3 more
+- mights (12) - Jacob 1:19, Jacob 5:61, + 10 more
+- millions (2) - Ether 15:2, Ether 15:2
+- minds (31) - 1 Nephi 7:8, 1 Nephi 14:7, + 29 more
+- mingleth (1) - Alma 3:15
+- ministers (3) - 1 Nephi 12:9, 1 Nephi 12:10, + 1 more
+- miracles (46) - 1 Nephi 17:51, 2 Nephi 10:4, + 44 more
+- mischiefs (1) - 3 Nephi 16:10
+- mists (2) - 1 Nephi 12:17, 3 Nephi 8:22
+- mixeth (1) - 2 Nephi 5:23
+- moles (1) - 2 Nephi 12:20
+- months (1) - Alma 58:7
+- moons (1) - Omni 1:21
+- mothers (10) - 1 Nephi 21:23, 2 Nephi 6:7, + 8 more
+- motions (1) - Alma 32:28
+- mountains (32) - 1 Nephi 12:4, 1 Nephi 13:37, + 30 more
+- mourned (4) - 1 Nephi 5:1, Alma 18:43, + 2 more
+- mournings (1) - Ether 15:17
+- mouths (10) - Words of Mormon 1:15, Mosiah 1:2, + 8 more
+- movements (1) - Alma 56:22
+- moveth (2) - Helaman 12:8, Helaman 12:15
+- mufflers (1) - 2 Nephi 13:19
+- multitudes (18) - 1 Nephi 8:30, 1 Nephi 8:31, + 16 more
+- murderers (10) - 1 Nephi 17:44, Alma 5:23, + 8 more
+- murdereth (2) - Alma 34:11, Alma 39:6
+- murderings (2) - Alma 50:21, Helaman 10:3
+- murders (30) - 2 Nephi 10:15, Alma 18:2, + 28 more
+- murmured (4) - 1 Nephi 3:6, 2 Nephi 1:26, + 2 more
+- murmurings (3) - 1 Nephi 17:2, Mosiah 29:33, + 1 more
+- mustereth (1) - 2 Nephi 23:4
+- mysteries (19) - 1 Nephi 1:1, 1 Nephi 2:16, + 17 more
+- nails (2) - 3 Nephi 11:14, 3 Nephi 11:15
+- names (29) - Jacob 1:14, Mosiah 1:2, + 27 more
+- nations (82) - 1 Nephi 5:18, 1 Nephi 11:36, + 80 more
+- natures (1) - Ether 3:2
+- nearer (1) - 1 Nephi 2:5
+- necks (7) - 2 Nephi 6:10, 2 Nephi 10:5, + 5 more
+- needeth (2) - Moroni 8:14, Moroni 8:20
+- neighbors (4) - Mosiah 13:24, Mosiah 13:24, + 2 more
+- nights (8) - Mosiah 27:23, Alma 18:43, + 6 more
+- nobler (1) - Helaman 3:23
+- nobles (1) - 2 Nephi 23:2
+- noises (2) - 1 Nephi 12:4, 3 Nephi 10:9
+- nostrils (1) - 2 Nephi 12:22
+- numbereth (2) - 1 Nephi 22:25, Alma 26:37
+- oaks (1) - 2 Nephi 12:13
+- oaths (13) - Alma 37:27, Alma 37:29, + 11 more
+- obeyeth (1) - 2 Nephi 7:10
+- offereth (2) - 2 Nephi 2:7, Moroni 7:6
+- offerings (6) - 1 Nephi 5:9, 1 Nephi 7:22, + 4 more
+- officers (4) - Alma 11:2, Alma 14:17, + 2 more
+- ones (21) - 1 Nephi 22:31, 2 Nephi 12:10, + 19 more
+- oppressions (1) - Alma 21:21
+- oppressors (2) - 2 Nephi 13:12, 2 Nephi 24:2
+- orders (6) - Alma 52:8, Alma 52:9, + 4 more
+- ordinances (7) - 2 Nephi 25:30, Mosiah 13:30, + 5 more
+- ores (2) - 2 Nephi 5:15, Jacob 2:12
+- ornaments (3) - 2 Nephi 13:18, 2 Nephi 13:20, + 1 more
+- orphans (1) - Mormon 8:40
+- others (36) - 1 Nephi 1:10, 1 Nephi 8:24, + 34 more
+- outcasts (2) - 2 Nephi 21:12, Ether 10:9
+- overbearance (1) - Alma 38:12
+- overcame (3) - Jacob 5:48, Jacob 5:48, + 1 more
+- overlooked (1) - Alma 50:4
+- overpowered (6) - Alma 19:13, Alma 19:14, + 4 more
+- overpowereth (1) - Alma 34:15
+- overpowering (1) - Ether 12:24
+- overran (1) - Jacob 5:37
+- overshadowed (5) - Alma 7:10, Helaman 5:28, + 3 more
+- overtaken (4) - Mosiah 9:15, Alma 56:43, + 2 more
+- overthrew (1) - 2 Nephi 23:19
+- owed (1) - Alma 43:46
+- oweth (2) - Alma 11:2, Alma 11:2
+- owls (1) - 2 Nephi 23:21
+- oxen (2) - 2 Nephi 17:25, Ether 9:18
+- pained (3) - 1 Nephi 17:47, Mosiah 27:29, + 1 more
+- pains (18) - 2 Nephi 9:21, 2 Nephi 9:21, + 16 more
+- palaces (1) - 2 Nephi 23:22
+- palms (1) - 1 Nephi 21:16
+- pangs (1) - 2 Nephi 23:8
+- parents (19) - 1 Nephi 1:1, 1 Nephi 5:11, + 17 more
+- partakers (6) - Alma 5:62, 4 Nephi 1:3, + 4 more
+- parties (1) - Mormon 1:9
+- partners (1) - 3 Nephi 3:7
+- parts (45) - 1 Nephi 13:26, 1 Nephi 13:32, + 43 more
+- passeth (4) - 2 Nephi 1:12, 2 Nephi 26:18, + 2 more
+- passions (1) - Alma 38:12
+- pastors (1) - 1 Nephi 21:1
+- pastures (1) - 1 Nephi 21:9
+- paths (13) - 1 Nephi 8:28, 1 Nephi 10:8, + 11 more
+- paying (1) - Mosiah 19:22
+- peace-makers (1) - 3 Nephi 12:9
+- peaked (1) - Ether 2:17
+- pearls (2) - 3 Nephi 14:6, 4 Nephi 1:24
+- peeped (1) - 2 Nephi 20:14
+- peoples (1) - Helaman 13:17
+- perceiving (1) - Alma 43:48
+- performances (6) - 2 Nephi 25:30, Mosiah 13:30, + 4 more
+- perished (14) - 1 Nephi 5:2, 1 Nephi 5:4, + 12 more
+- perisheth (5) - 2 Nephi 9:51, Mosiah 3:18, + 3 more
+- perishing (2) - 1 Nephi 5:14, Alma 24:23
+- permitted (8) - Mosiah 7:8, Mosiah 7:11, + 6 more
+- persecuteth (1) - Mosiah 27:13
+- persecutions (12) - 2 Nephi 26:8, Mosiah 27:1, + 10 more
+- persisted (1) - Mormon 4:10
+- persists (1) - Mosiah 16:5
+- persons (3) - Alma 1:30, Alma 16:14, + 1 more
+- persuadeth (6) - 2 Nephi 33:4, 2 Nephi 33:4, + 4 more
+- persuasions (2) - Alma 2:3, Alma 53:14
+- pertaining (15) - 1 Nephi 15:33, 1 Nephi 22:3, + 13 more
+- perverteth (1) - Alma 30:60
+- pestilence (9) - 2 Nephi 6:15, Mosiah 12:4, + 7 more
+- pestilences (4) - 2 Nephi 10:6, Alma 45:11, + 2 more
+- petitions (1) - Alma 51:3
+- pickets (2) - Alma 50:3, Alma 50:4
+- pictures (1) - 2 Nephi 12:16
+- pieces (15) - 1 Nephi 12:4, 2 Nephi 13:15, + 13 more
+- pits (2) - 3 Nephi 28:20, Ether 9:29
+- places (34) - 1 Nephi 17:46, 1 Nephi 17:46, + 32 more
+- placing (2) - Alma 12:31, Ether 12:25
+- plains (9) - 1 Nephi 12:4, Alma 52:20, + 7 more
+- planets (1) - Alma 30:44
+- plans (13) - Alma 2:21, Alma 10:18, + 11 more
+- plants (1) - Alma 46:40
+- plates (138) - 1 Nephi 1:17, 1 Nephi 3:3, + 136 more
+- pleadeth (1) - 2 Nephi 8:22
+- pleasures (1) - Alma 12:31
+- plots (2) - Alma 2:21, Helaman 6:30
+- plunderers (1) - Helaman 6:18
+- plunderings (4) - Alma 37:21, Alma 50:21, + 2 more
+- pointers (1) - 1 Nephi 16:28
+- points (7) - 1 Nephi 15:14, Alma 41:9, + 5 more
+- pollutions (2) - Mormon 8:31, Mormon 8:38
+- pondereth (2) - 2 Nephi 4:15, 2 Nephi 4:16
+- pools (1) - 2 Nephi 24:23
+- poorer (1) - Jacob 5:23
+- poorest (1) - Jacob 5:21
+- possessions (21) - 1 Nephi 17:21, 2 Nephi 1:11, + 19 more
+- posts (1) - 2 Nephi 16:4
+- potters (1) - 2 Nephi 27:27
+- powers (5) - Alma 48:17, 3 Nephi 20:22, + 3 more
+- practices (1) - Jacob 1:15
+- praises (6) - 2 Nephi 31:13, Mosiah 2:28, + 4 more
+- prayed (34) - 1 Nephi 1:5, 1 Nephi 1:6, + 32 more
+- prayers (30) - 1 Nephi 18:19, 2 Nephi 6:11, + 28 more
+- prayest (2) - 3 Nephi 13:5, 3 Nephi 13:6
+- prayeth (2) - Alma 26:22, Moroni 7:6
+- preachers (1) - Words of Mormon 1:16
+- preachings (1) - Omni 1:13
+- precepts (6) - 2 Nephi 27:25, 2 Nephi 28:14, + 4 more
+- preparations (19) - Jarom 1:8, Mosiah 10:7, + 17 more
+- prepareth (3) - 1 Nephi 9:6, 2 Nephi 9:10, + 1 more
+- presses (1) - Mosiah 11:15
+- pretendeth (1) - Mosiah 12:12
+- prevailed (1) - Alma 27:28
+- priestcrafts (4) - 2 Nephi 26:29, 3 Nephi 16:10, + 2 more
+- priests (80) - 2 Nephi 5:26, 2 Nephi 28:4, + 78 more
+- princes (4) - 1 Nephi 21:7, 2 Nephi 13:4, + 2 more
+- prints (2) - 3 Nephi 11:14, 3 Nephi 11:15
+- prisoners (66) - 1 Nephi 21:9, 2 Nephi 20:4, + 64 more
+- prisons (5) - Alma 62:50, 3 Nephi 28:19, + 3 more
+- privileges (10) - Mosiah 29:32, Alma 2:4, + 8 more
+- proceeded (7) - 1 Nephi 13:24, 1 Nephi 13:24, + 5 more
+- proceedeth (1) - 1 Nephi 13:23
+- proceedings (10) - 1 Nephi 1:1, 1 Nephi 1:17, + 8 more
+- profiteth (6) - 2 Nephi 9:28, Jacob 5:32, + 4 more
+- promises (21) - 2 Nephi 10:2, 2 Nephi 10:2, + 19 more
+- prophecies (36) - 1 Nephi 5:13, 1 Nephi 5:13, + 34 more
+- prophesieth (2) - Jacob 4:13, Mosiah 12:10
+- prophesyings (1) - Omni 1:13
+- prophets (121) - 1 Nephi 1:4, 1 Nephi 1:20, + 119 more
+- prospereth (1) - 2 Nephi 28:21
+- proveth (1) - 2 Nephi 11:3
+- providing (1) - Alma 53:7
+- provisions (36) - 1 Nephi 2:4, 1 Nephi 16:11, + 34 more
+- provoketh (1) - Alma 12:36
+- publisheth (4) - Mosiah 12:21, Mosiah 12:21, + 2 more
+- punishments (2) - Mosiah 4:17, Alma 18:2
+- purified (7) - Mosiah 4:2, Alma 5:21, + 5 more
+- purposes (11) - 1 Nephi 4:13, 1 Nephi 19:3, + 9 more
+- putteth (6) - 2 Nephi 4:34, 2 Nephi 4:34, + 4 more
+- quakings (1) - 3 Nephi 8:19
+- qualities (1) - Alma 46:40
+- quarrellings (1) - Alma 50:21
+- quarters (7) - 1 Nephi 19:16, 1 Nephi 22:25, + 5 more
+- queens (3) - 1 Nephi 21:23, 2 Nephi 6:7, + 1 more
+- questions (5) - Mosiah 7:8, Mosiah 12:19, + 3 more
+- rains (1) - Ether 2:24
+- raiseth (2) - 1 Nephi 17:37, 2 Nephi 10:14
+- ranks (2) - Mosiah 10:9, 3 Nephi 6:12
+- rations (1) - Alma 55:11
+- re-built (3) - Alma 49:2, Alma 49:3, + 1 more
+- re-united (4) - Alma 11:43, Alma 40:19, + 2 more
+- re-uniting (1) - Alma 40:18
+- readeth (1) - 3 Nephi 10:14
+- reasons (1) - Mosiah 7:24
+- rebelleth (2) - Mosiah 3:12, Mosiah 15:26
+- rebellions (4) - 2 Nephi 1:2, Alma 18:38, + 2 more
+- receiveth (15) - 2 Nephi 28:28, 2 Nephi 28:30, + 13 more
+- records (74) - 1 Nephi 3:4, 1 Nephi 3:12, + 72 more
+- redeemeth (4) - Mosiah 15:26, Mosiah 16:2, + 2 more
+- refiners (2) - Alma 34:29, 3 Nephi 24:2
+- refuseth (1) - 2 Nephi 18:6
+- regions (5) - 2 Nephi 25:6, Alma 21:13, + 3 more
+- regulations (4) - Alma 6:7, Alma 51:22, + 2 more
+- reigned (14) - Mosiah 29:22, Ether 7:3, + 12 more
+- reigneth (8) - 1 Nephi 22:26, Omni 1:23, + 6 more
+- reigns (4) - Jacob 1:9, Jacob 1:11, + 2 more
+- rejecteth (1) - 2 Nephi 27:14
+- rejoiceth (4) - 2 Nephi 15:14, 3 Nephi 27:30, + 2 more
+- rejoicings (4) - Mosiah 23:24, Alma 30:22, + 2 more
+- remained (12) - 2 Nephi 1:4, 2 Nephi 2:22, + 10 more
+- remaineth (8) - 2 Nephi 14:3, Mosiah 2:33, + 6 more
+- rememberest (2) - 3 Nephi 12:23, Ether 12:32
+- remembereth (8) - 1 Nephi 12:9, 2 Nephi 10:22, + 6 more
+- remnants (2) - 1 Nephi 10:14, 3 Nephi 20:13
+- rending (1) - Alma 46:21
+- repented (35) - 1 Nephi 18:20, 2 Nephi 31:14, + 33 more
+- repenteth (21) - 1 Nephi 14:5, Mosiah 2:38, + 19 more
+- repetitions (1) - 3 Nephi 13:7
+- reproveth (1) - 2 Nephi 27:32
+- requires (1) - Mosiah 2:22
+- requireth (1) - Alma 34:12
+- resorted (1) - Mosiah 18:5
+- respects (2) - Alma 1:30, Alma 16:14
+- retaken (1) - Alma 55:27
+- retreats (1) - Alma 58:6
+- revelations (16) - 2 Nephi 5:6, Jacob 1:6, + 14 more
+- revilings (2) - 2 Nephi 8:7, Alma 16:18
+- rewardeth (1) - Alma 34:39
+- rewards (2) - Alma 3:26, Alma 32:43
+- ridges (1) - Alma 50:2
+- rights (17) - Mosiah 29:32, Alma 2:4, + 15 more
+- rims (1) - Mosiah 28:13
+- ringlets (1) - Alma 31:28
+- rings (1) - 2 Nephi 13:21
+- riotings (1) - Alma 11:20
+- ripened (4) - Jacob 5:37, Jacob 5:58, + 2 more
+- ripening (4) - Helaman 5:2, Helaman 6:40, + 2 more
+- risest (1) - Alma 37:37
+- rites (2) - Alma 43:45, Alma 44:5
+- rivers (3) - 2 Nephi 7:2, Helaman 3:4, + 1 more
+- roads (4) - 1 Nephi 8:32, 1 Nephi 12:17, + 2 more
+- roared (1) - 2 Nephi 8:15
+- robbers (55) - Helaman 2:10, Helaman 6:18, + 53 more
+- robbings (2) - Alma 37:21, Helaman 3:14
+- rocks (10) - 1 Nephi 12:4, 1 Nephi 19:12, + 8 more
+- roots (20) - 2 Nephi 21:1, Jacob 5:11, + 18 more
+- ruins (1) - Mosiah 8:8
+- rulers (7) - 1 Nephi 21:7, 2 Nephi 24:5, + 5 more
+- ruleth (1) - 1 Nephi 17:39
+- rumors (8) - 1 Nephi 12:2, 1 Nephi 12:21, + 6 more
+- sacrifices (3) - 3 Nephi 9:19, 3 Nephi 9:19, + 1 more
+- saidst (2) - Alma 11:25, Helaman 11:14
+- saints (28) - 1 Nephi 13:5, 1 Nephi 13:9, + 26 more
+- saith (417) - 1 Nephi 4:11, 1 Nephi 8:35, + 415 more
+- sakes (7) - 1 Nephi 17:38, 2 Nephi 1:7, + 5 more
+- sanctuaries (8) - 2 Nephi 28:13, Alma 15:17, + 6 more
+- sands (1) - Alma 2:27
+- sapphires (1) - 3 Nephi 22:11
+- satisfieth (1) - 2 Nephi 9:26
+- satyrs (1) - 2 Nephi 23:21
+- saveth (1) - Moroni 8:15
+- sawest (1) - Ether 3:9
+- sayest (6) - Mosiah 12:31, Alma 11:26, + 4 more
+- sayeth (47) - 1 Nephi 2:1, 1 Nephi 22:2, + 45 more
+- sayings (26) - 2 Nephi 4:14, 2 Nephi 30:18, + 24 more
+- scales (1) - 2 Nephi 30:6
+- scarlets (2) - 1 Nephi 13:7, 1 Nephi 13:8
+- scattereth (1) - Mosiah 8:21
+- scorcheth (1) - Alma 32:38
+- scriptures (40) - 1 Nephi 19:23, 2 Nephi 4:15, + 38 more
+- seams (2) - Helaman 14:22, 3 Nephi 8:18
+- searches (1) - Mosiah 18:5
+- seasons (4) - Omni 1:3, Omni 1:3, + 2 more
+- seats (3) - Mosiah 11:11, Mosiah 11:11, + 1 more
+- secrets (1) - Alma 37:25
+- seduced (1) - Helaman 6:38
+- seeds (9) - 1 Nephi 8:1, 1 Nephi 8:1, + 7 more
+- seeketh (8) - 1 Nephi 10:19, 2 Nephi 2:27, + 6 more
+- seeking (10) - Enos 1:20, Mosiah 27:10, + 8 more
+- seemeth (6) - 2 Nephi 27:14, Mosiah 12:16, + 4 more
+- seers (1) - 2 Nephi 27:5
+- seest (12) - 1 Nephi 11:18, 1 Nephi 13:26, + 10 more
+- seeth (10) - 2 Nephi 27:27, 2 Nephi 27:34, + 8 more
+- sendeth (5) - 2 Nephi 11:3, Mosiah 29:23, + 3 more
+- sending (3) - 2 Nephi 17:25, Alma 48:23, + 1 more
+- seraphims (2) - 2 Nephi 16:2, 2 Nephi 16:6
+- serpents (10) - 1 Nephi 17:41, 2 Nephi 24:29, + 8 more
+- servants (73) - 1 Nephi 3:25, 1 Nephi 3:26, + 71 more
+- serveth (3) - 3 Nephi 24:17, 3 Nephi 24:18, + 1 more
+- setteth (1) - Moroni 8:20
+- seventy-nine (1) - Mosiah 9:19
+- seventy-six (1) - Mosiah 6:4
+- shadows (1) - Mosiah 3:15
+- shafts (1) - Helaman 5:12
+- shaketh (1) - 2 Nephi 20:15
+- shaven (1) - Enos 1:20
+- shearers (1) - Mosiah 14:7
+- sheaves (2) - Alma 26:5, 3 Nephi 20:18
+- sheddeth (1) - 1 Nephi 11:22
+- sheeps (1) - 3 Nephi 14:15
+- shepherds (1) - 2 Nephi 23:20
+- shields (10) - Alma 43:19, Alma 43:21, + 8 more
+- shined (1) - 2 Nephi 19:2
+- ships (4) - 2 Nephi 12:16, 2 Nephi 12:16, + 2 more
+- shoes (2) - 1 Nephi 10:8, 2 Nephi 15:27
+- shores (1) - Ether 6:12
+- shoulders (8) - 1 Nephi 21:22, 1 Nephi 22:6, + 6 more
+- shouldst (10) - 1 Nephi 20:5, 1 Nephi 20:7, + 8 more
+- showed (3) - 2 Nephi 31:4, Alma 30:51, + 1 more
+- showeth (1) - 2 Nephi 31:7
+- sicknesses (2) - Alma 7:11, 3 Nephi 7:22
+- sides (10) - 2 Nephi 24:13, 2 Nephi 24:15, + 8 more
+- signed (1) - 3 Nephi 6:22
+- signs (27) - 1 Nephi 19:13, 2 Nephi 18:18, + 25 more
+- silenced (1) - Alma 12:1
+- silks (5) - 1 Nephi 13:7, 1 Nephi 13:8, + 3 more
+- sinned (5) - Mosiah 3:11, Mosiah 12:14, + 3 more
+- sinners (4) - 2 Nephi 23:9, Mosiah 28:4, + 2 more
+- sins (162) - 1 Nephi 10:10, 1 Nephi 11:33, + 160 more
+- sisters (1) - 2 Nephi 5:6
+- sitteth (1) - Moroni 9:26
+- sixteenth (4) - Alma 30:2, Alma 30:4, + 2 more
+- skins (8) - 1 Nephi 17:11, Jacob 3:5, + 6 more
+- skirts (1) - Helaman 9:31
+- slackened (1) - Jacob 5:47
+- slaughters (1) - 1 Nephi 12:2
+- slaves (6) - Mosiah 2:13, Mosiah 7:15, + 4 more
+- slayeth (2) - 1 Nephi 4:13, 1 Nephi 13:5
+- sleepeth (2) - Alma 19:8, Alma 55:8
+- slings (8) - 1 Nephi 16:15, Mosiah 9:16, + 6 more
+- slipped (1) - Helaman 13:35
+- slumbered (2) - 2 Nephi 27:6, 2 Nephi 27:9
+- smallest (1) - Alma 26:16
+- smiled (1) - Jacob 2:13
+- smiteth (2) - 2 Nephi 19:13, Mormon 8:19
+- smiting (2) - Alma 17:37, Helaman 4:12
+- snares (4) - Alma 10:17, Alma 55:31, + 2 more
+- sobbings (1) - Jacob 2:35
+- soldiers (5) - Alma 44:12, Alma 44:12, + 3 more
+- soles (1) - 3 Nephi 25:3
+- sons (165) - 1 Nephi 5:2, 1 Nephi 5:5, + 163 more
+- sooner (2) - 1 Nephi 22:3, Alma 13:25
+- soothsayers (2) - 2 Nephi 12:6, 3 Nephi 21:16
+- sorcerers (1) - 3 Nephi 24:5
+- sorceries (2) - Alma 1:32, Mormon 1:19
+- sorroweth (2) - 2 Nephi 4:17, 3 Nephi 27:32
+- sorrows (6) - 2 Nephi 23:8, Mosiah 14:3, + 4 more
+- sorts (1) - Jacob 5:30
+- souls (90) - 1 Nephi 14:3, 1 Nephi 15:35, + 88 more
+- spareth (1) - 3 Nephi 24:17
+- sparks (2) - 2 Nephi 7:11, 2 Nephi 7:11
+- speakest (2) - 1 Nephi 16:3, Ether 3:12
+- speaketh (13) - 1 Nephi 11:11, 1 Nephi 11:11, + 11 more
+- spears (2) - 2 Nephi 12:4, Alma 17:7
+- spent (6) - 1 Nephi 21:4, 2 Nephi 2:3, + 4 more
+- spies (10) - Mosiah 10:7, Alma 2:21, + 8 more
+- spindles (2) - 1 Nephi 16:10, Alma 37:40
+- spirits (17) - 1 Nephi 11:31, 1 Nephi 11:31, + 15 more
+- spoils (1) - Helaman 6:38
+- springs (2) - 1 Nephi 16:21, 1 Nephi 21:10
+- sprouted (1) - Alma 32:34
+- sprouteth (3) - Alma 32:30, Alma 32:30, + 1 more
+- spurneth (1) - 3 Nephi 29:5
+- stains (2) - Alma 24:12, Alma 24:15
+- stakes (2) - 3 Nephi 22:2, Moroni 10:31
+- standeth (8) - 1 Nephi 10:8, 2 Nephi 13:13, + 6 more
+- stars (5) - 1 Nephi 1:10, 2 Nephi 23:10, + 3 more
+- stating (2) - Alma 56:1, Alma 57:1
+- stationed (3) - Alma 49:2, Alma 56:34, + 1 more
+- stations (1) - Alma 17:18
+- statutes (13) - 1 Nephi 17:22, 2 Nephi 1:16, + 11 more
+- stealings (1) - Helaman 6:21
+- steps (2) - Ether 9:15, Ether 9:23
+- stiff-neckedness (1) - 2 Nephi 32:7
+- stiffened (1) - 2 Nephi 6:10
+- stinketh (1) - Alma 19:5
+- stirreth (5) - 2 Nephi 9:9, 2 Nephi 24:9, + 3 more
+- stones (42) - 1 Nephi 2:7, 1 Nephi 16:15, + 40 more
+- stoning (1) - 3 Nephi 9:10
+- stoppeth (1) - 2 Nephi 32:7
+- strangers (4) - 2 Nephi 12:6, 2 Nephi 15:17, + 2 more
+- streams (1) - 2 Nephi 21:15
+- streets (7) - 2 Nephi 8:20, 2 Nephi 15:25, + 5 more
+- stretches (1) - Jacob 6:4
+- strifes (8) - 2 Nephi 26:21, Alma 16:18, + 6 more
+- striketh (1) - Jacob 6:13
+- stripes (2) - 2 Nephi 28:8, Mosiah 14:5
+- strokes (1) - Alma 43:38
+- struggled (1) - Ether 15:31
+- struggles (2) - Enos 1:14, Alma 27:1
+- strugglings (2) - Enos 1:11, Mosiah 7:18
+- subjecting (4) - Mosiah 16:3, Mosiah 21:13, + 2 more
+- subjects (4) - Mosiah 22:13, Alma 5:20, + 2 more
+- substances (1) - Mormon 8:37
+- succeeded (3) - Helaman 4:4, Helaman 4:5, + 1 more
+- succoring (1) - Alma 4:13
+- suffereth (12) - 1 Nephi 19:9, 1 Nephi 19:9, + 10 more
+- sufferings (16) - 1 Nephi 16:20, 1 Nephi 16:35, + 14 more
+- suffers (1) - 1 Nephi 19:12
+- sufficeth (9) - 1 Nephi 6:2, 1 Nephi 14:28, + 7 more
+- suits (2) - 2 Nephi 13:22, Alma 11:20
+- supplicating (1) - Alma 7:3
+- supplies (1) - Alma 55:34
+- supposeth (8) - 2 Nephi 25:8, Jacob 2:8, + 6 more
+- survived (1) - Mormon 6:11
+- swarms (1) - Ether 2:3
+- swearers (1) - 3 Nephi 24:5
+- sweepeth (1) - Ether 14:18
+- swelleth (3) - Alma 32:30, Alma 32:30, + 1 more
+- swords (42) - 2 Nephi 5:14, 2 Nephi 12:4, + 40 more
+- sycamores (1) - 2 Nephi 19:10
+- synagogues (22) - 2 Nephi 26:26, Alma 16:13, + 20 more
+- tablets (1) - 2 Nephi 13:20
+- tails (1) - 2 Nephi 17:4
+- taketh (8) - 1 Nephi 16:2, 2 Nephi 2:8, + 6 more
+- talked (5) - 1 Nephi 3:11, 1 Nephi 16:38, + 3 more
+- tarried (8) - 1 Nephi 5:4, 1 Nephi 8:2, + 6 more
+- tasks (2) - 1 Nephi 17:25, Mosiah 24:9
+- taxes (6) - Mosiah 2:14, Mosiah 11:6, + 4 more
+- teachers (31) - 2 Nephi 5:26, 2 Nephi 28:12, + 29 more
+- teachest (1) - Mosiah 12:27
+- teacheth (5) - 1 Nephi 20:17, 2 Nephi 19:15, + 3 more
+- teareth (3) - Mosiah 29:22, 3 Nephi 20:16, + 1 more
+- tears (7) - 1 Nephi 18:19, Mosiah 25:9, + 5 more
+- teasings (1) - Mosiah 7:1
+- telleth (3) - 1 Nephi 16:38, 2 Nephi 28:22, + 1 more
+- telling (8) - 1 Nephi 5:2, Jacob 3:12, + 6 more
+- tempels (1) - Alma 16:13
+- tempests (5) - Helaman 14:23, 3 Nephi 8:17, + 3 more
+- temples (8) - Mosiah 2:37, Alma 7:21, + 6 more
+- temptations (9) - 1 Nephi 12:17, 1 Nephi 12:19, + 7 more
+- tens (7) - 1 Nephi 4:1, Alma 3:26, + 5 more
+- tents (44) - 1 Nephi 2:4, 1 Nephi 3:9, + 42 more
+- terms (1) - Alma 13:23
+- testifies (1) - 3 Nephi 10:17
+- testifieth (4) - Alma 7:16, Alma 7:26, + 2 more
+- theirs (2) - 3 Nephi 12:3, 3 Nephi 12:10
+- thickets (2) - 2 Nephi 19:18, 2 Nephi 20:34
+- thieves (4) - 3 Nephi 13:19, 3 Nephi 13:20, + 2 more
+- thieving (1) - Alma 1:32
+- things (910) - 1 Nephi 1:6, 1 Nephi 1:7, + 908 more
+- thinketh (5) - 1 Nephi 17:17, 1 Nephi 17:17, + 3 more
+- thirsted (1) - 1 Nephi 20:21
+- thirsteth (1) - 2 Nephi 9:50
+- thistles (1) - 3 Nephi 14:16
+- thorns (8) - 2 Nephi 15:6, 2 Nephi 17:19, + 6 more
+- thoughts (22) - Jacob 2:5, Mosiah 4:30, + 20 more
+- thousands (41) - 1 Nephi 4:1, Words of Mormon 1:14, + 39 more
+- threatenings (3) - 3 Nephi 3:12, 3 Nephi 4:12, + 1 more
+- thrones (4) - 2 Nephi 24:9, Alma 60:7, + 2 more
+- throwing (2) - Alma 2:34, Alma 48:8
+- thunderings (8) - 1 Nephi 12:4, 1 Nephi 19:11, + 6 more
+- timbers (10) - 1 Nephi 18:1, 1 Nephi 18:1, + 8 more
+- times (35) - 1 Nephi 4:27, 1 Nephi 10:17, + 33 more
+- tires (1) - 2 Nephi 13:18
+- tithes (4) - Alma 13:15, Alma 13:15, + 2 more
+- toiled (2) - 1 Nephi 17:20, Alma 56:16
+- tongues (20) - 1 Nephi 5:18, 1 Nephi 11:36, + 18 more
+- tools (6) - 1 Nephi 17:9, 1 Nephi 17:10, + 4 more
+- tops (2) - 2 Nephi 12:21, Mormon 5:8
+- torches (1) - 3 Nephi 8:21
+- torments (1) - Alma 12:17
+- tortureth (1) - 1 Nephi 13:5
+- touched (8) - 2 Nephi 16:7, Alma 19:29, + 6 more
+- towers (4) - Alma 48:1, Alma 50:4, + 2 more
+- towns (2) - Mormon 4:22, Mormon 5:5
+- tracks (1) - Mosiah 22:16
+- traditions (27) - Enos 1:14, Mosiah 1:5, + 25 more
+- traffic (3) - 4 Nephi 1:46, 4 Nephi 1:46, + 1 more
+- traitors (1) - Alma 60:18
+- trampleth (1) - Mosiah 29:22
+- transformeth (1) - 2 Nephi 9:9
+- transgresseth (2) - 2 Nephi 9:27, Mosiah 26:29
+- transgressions (13) - 2 Nephi 7:1, 2 Nephi 9:46, + 11 more
+- transgressors (2) - Mosiah 14:12, Mosiah 14:12
+- transpired (4) - 1 Nephi 19:2, 3 Nephi 5:8, + 2 more
+- traps (1) - Alma 10:17
+- travails (1) - Mosiah 29:33
+- traveleth (1) - 3 Nephi 27:33
+- travels (2) - 2 Nephi 29:4, Alma 30:32
+- treadeth (2) - 3 Nephi 20:16, 3 Nephi 21:12
+- treasures (14) - 2 Nephi 9:30, 2 Nephi 12:7, + 12 more
+- trees (20) - 2 Nephi 17:2, 2 Nephi 20:19, + 18 more
+- trembled (2) - Helaman 5:31, Helaman 5:32
+- trembleth (1) - 2 Nephi 28:28
+- trespasses (6) - Mosiah 26:30, Mosiah 26:31, + 4 more
+- trials (7) - Mosiah 29:33, Alma 10:14, + 5 more
+- tribes (20) - 1 Nephi 12:9, 1 Nephi 21:6, + 18 more
+- tribulations (6) - Alma 15:3, Alma 15:18, + 4 more
+- tried (4) - Alma 32:33, Helaman 1:8, + 2 more
+- trieth (1) - Mosiah 23:21
+- troubles (5) - Mosiah 29:33, Alma 36:3, + 3 more
+- tumults (1) - 4 Nephi 1:16
+- turneth (1) - 2 Nephi 19:13
+- twenty-four (2) - Mosiah 8:9, Alma 37:21
+- types (2) - Mosiah 3:15, Mosiah 13:31
+- unbelievers (5) - Mosiah 27:1, Mosiah 27:8, + 3 more
+- understandings (1) - Mosiah 8:20
+- undertakings (1) - Alma 39:10
+- unwearyingness (2) - Helaman 10:4, Helaman 10:5
+- vails (1) - 2 Nephi 13:23
+- valleys (3) - 2 Nephi 17:19, Helaman 14:23, + 1 more
+- vapors (1) - Mormon 8:29
+- vessels (10) - 3 Nephi 20:41, Ether 2:22, + 8 more
+- vexation (1) - 2 Nephi 19:1
+- victims (2) - Mosiah 1:14, Moroni 9:17
+- views (3) - 2 Nephi 1:24, Mosiah 5:3, + 1 more
+- vilest (1) - Mosiah 28:4
+- villages (6) - Mosiah 27:6, Alma 8:7, + 4 more
+- vines (1) - 2 Nephi 17:23
+- vineyards (2) - Mosiah 11:15, Alma 28:14
+- viols (1) - 2 Nephi 24:11
+- virgins (1) - 1 Nephi 11:15
+- visions (3) - 1 Nephi 1:16, 2 Nephi 4:23, + 1 more
+- visitations (1) - 2 Nephi 1:12
+- voices (9) - Mosiah 17:12, Mosiah 24:12, + 7 more
+- vultures (2) - Mosiah 12:2, Alma 2:38
+- waketh (2) - 2 Nephi 7:4, 2 Nephi 7:4
+- walked (3) - 2 Nephi 19:2, Alma 5:27, + 1 more
+- walketh (1) - 2 Nephi 7:10
+- walls (29) - 1 Nephi 4:4, 1 Nephi 4:5, + 27 more
+- wandered (5) - 1 Nephi 8:23, 1 Nephi 16:35, + 3 more
+- wanderers (3) - Jacob 7:26, Alma 13:23, + 1 more
+- wants (3) - Mosiah 4:26, Mosiah 18:29, + 1 more
+- warnings (1) - 2 Nephi 5:6
+- warred (1) - Alma 1:1
+- warriors (1) - Alma 51:31
+- wars (61) - 1 Nephi 9:4, 1 Nephi 9:4, + 59 more
+- wasteth (1) - 2 Nephi 9:27
+- watchmen (4) - Mosiah 12:22, Mosiah 15:29, + 2 more
+- waters (77) - 1 Nephi 2:9, 1 Nephi 4:2, + 75 more
+- waves (8) - 1 Nephi 20:18, 2 Nephi 8:15, + 6 more
+- ways (55) - 1 Nephi 2:24, 1 Nephi 13:27, + 53 more
+- weakest (3) - Alma 48:5, Alma 48:9, + 1 more
+- weapons (55) - 2 Nephi 23:5, Jarom 1:8, + 53 more
+- wearied (3) - Mosiah 7:1, Alma 52:28, + 1 more
+- wells (1) - 2 Nephi 22:3
+- wheels (1) - 2 Nephi 15:28
+- whims (1) - Alma 30:28
+- whirlwinds (4) - 2 Nephi 26:5, Alma 26:6, + 2 more
+- whispereth (2) - 2 Nephi 28:22, Words of Mormon 1:7
+- whiter (1) - Jacob 3:8
+- whoredoms (27) - 2 Nephi 9:36, 2 Nephi 26:32, + 25 more
+- widows (7) - 2 Nephi 19:17, 2 Nephi 20:2, + 5 more
+- wiles (1) - Helaman 3:29
+- wills (5) - Mosiah 16:12, Alma 12:31, + 3 more
+- wimples (1) - 2 Nephi 13:22
+- windows (3) - 3 Nephi 22:12, 3 Nephi 24:10, + 1 more
+- winds (9) - 1 Nephi 18:21, Alma 26:6, + 7 more
+- wings (8) - 2 Nephi 4:25, 2 Nephi 16:2, + 6 more
+- wisdoms (2) - Mosiah 2:36, Helaman 12:5
+- wishes (1) - 3 Nephi 4:16
+- witchcrafts (2) - 3 Nephi 21:16, Mormon 1:19
+- withdrew (6) - Alma 1:24, Alma 35:1, + 4 more
+- withereth (1) - Alma 32:38
+- withstood (10) - Jarom 1:7, Mosiah 12:19, + 8 more
+- witnesses (18) - 2 Nephi 11:3, 2 Nephi 18:2, + 16 more
+- witnesseth (1) - 2 Nephi 31:7
+- wizards (1) - 2 Nephi 18:19
+- wolves (2) - Alma 5:59, 3 Nephi 14:15
+- wondered (1) - 3 Nephi 15:2
+- wondereth (1) - Mosiah 7:28
+- wonders (15) - 1 Nephi 19:13, 2 Nephi 3:24, + 13 more
+- words (636) - 1 Nephi 2:13, 1 Nephi 2:16, + 634 more
+- workers (5) - Alma 5:32, Alma 5:37, + 3 more
+- workest (2) - Ether 12:29, Ether 12:30
+- worketh (8) - 1 Nephi 16:38, 2 Nephi 26:23, + 6 more
+- workings (5) - 1 Nephi 19:20, 2 Nephi 1:6, + 3 more
+- workmen (2) - Mosiah 11:10, Helaman 6:11
+- works (131) - 1 Nephi 1:14, 1 Nephi 9:6, + 129 more
+- worms (2) - 2 Nephi 24:11, Ether 14:22
+- worshippers (1) - 4 Nephi 1:37
+- wouldest (1) - 1 Nephi 20:8
+- wouldst (5) - 2 Nephi 4:33, Mosiah 22:4, + 3 more
+- woundedness (1) - 1 Nephi 13:32
+- wounds (12) - Jacob 2:9, Jacob 2:9, + 10 more
+- wrists (1) - 1 Nephi 18:15
+- writen (1) - 3 Nephi 20:36
+- writeth (1) - 2 Nephi 4:15
+- writings (1) - Jarom 1:14
+- wrongs (6) - Alma 54:24, Alma 61:6, + 4 more
+- years (134) - 1 Nephi 10:4, 1 Nephi 15:13, + 132 more
+- yieldeth (5) - 1 Nephi 19:10, 2 Nephi 26:10, + 3 more
+- yoketh (1) - 1 Nephi 13:5
+- yours (1) - Jacob 3:8
+- yourselves (84) - 1 Nephi 19:24, 1 Nephi 20:14, + 82 more
