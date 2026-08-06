@@ -4,13 +4,15 @@
 Each category file is a bullet list, one line per word in that category:
     - word (count) - REFS
 
-REFS shows at most the first 2 verse references (in canonical book order);
+REFS shows at most the first 2 verse references (in canonical book order),
+each linked to the matching verse on bom-editions.vercel.app's 1830 edition;
 if the word occurs more than twice, a third segment "+ N more" replaces the
 remaining references, e.g. "3 Nephi 5:5, Enos 1:14, + 3 more" for a word
 that occurs 5 times.
 """
 
 import csv
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -21,6 +23,18 @@ REFERENCES_PATH = REPO_ROOT / "output" / "unique_bom_words_references.tsv"
 CATEGORIES_DIR = REPO_ROOT / "output" / "categories"
 
 REFS_SHOWN = 2
+
+# e.g. "1 Nephi 4:4" -> book="1 Nephi", chapter="4", verse="4";
+# "Words of Mormon 1:12" -> book="Words of Mormon", chapter="1", verse="12".
+REFERENCE_RE = re.compile(r"^(?P<book>.+) (?P<chapter>\d+):(?P<verse>\d+)$")
+
+BOM_EDITIONS_BASE_URL = "https://bom-editions.vercel.app/en/1830"
+
+
+def reference_url(reference: str) -> str:
+    match = REFERENCE_RE.match(reference)
+    book_slug = match["book"].lower().replace(" ", "-")
+    return f"{BOM_EDITIONS_BASE_URL}/{book_slug}/{match['chapter']}#{match['verse']}"
 
 
 def load_occurances() -> dict[str, int]:
@@ -49,7 +63,7 @@ def load_curated_words() -> list[tuple[str, str]]:
 
 
 def format_refs(refs: list[str]) -> str:
-    shown = refs[:REFS_SHOWN]
+    shown = [f"[{ref}]({reference_url(ref)})" for ref in refs[:REFS_SHOWN]]
     remaining = len(refs) - len(shown)
     if remaining > 0:
         shown = shown + [f"+ {remaining} more"]

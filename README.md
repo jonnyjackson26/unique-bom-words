@@ -70,12 +70,15 @@ writes one Markdown file per category to `output/categories/<category>.md`, e.g.
 per word:
 
 ```
-- abinadi (37) - Mosiah 11:20, Mosiah 11:26, + 35 more
-- abish (1) - Alma 19:16
+- abinadi (37) - [Mosiah 11:20](https://bom-editions.vercel.app/en/1830/mosiah/11#20), [Mosiah 11:26](https://bom-editions.vercel.app/en/1830/mosiah/11#26), + 35 more
+- abish (1) - [Alma 19:16](https://bom-editions.vercel.app/en/1830/alma/19#16)
 ```
 
 `(N)` is the word's total occurrence count; after it, up to the first 2 verse references are
-shown, and if the word occurs more than twice, a final `+ N more` segment covers the rest.
+shown as links to that verse's page on the [Book of Mormon Editions
+Project](https://bom-editions.vercel.app)'s 1830 edition (e.g. `Mosiah 11:20` →
+`https://bom-editions.vercel.app/en/1830/mosiah/11#20`), and if the word occurs more than
+twice, a final `+ N more` segment (not linked) covers the rest.
 
 Run it with:
 

@@ -1,333 +1,333 @@
 # Proper
 
-- aaron (50) - Mosiah 27:34, Mosiah 29:2, + 48 more
-- abel (1) - Helaman 6:27
-- abinadi (37) - Mosiah 11:20, Mosiah 11:26, + 35 more
-- abinadom (2) - Omni 1:10, Omni 1:12
-- abish (1) - Alma 19:16
-- ablom (1) - Ether 9:3
-- abraham (29) - 1 Nephi 6:4, 1 Nephi 15:18, + 27 more
-- agosh (2) - Ether 14:15, Ether 14:16
-- ahah (4) - Ether 1:9, Ether 1:10, + 2 more
-- ahaz (5) - 2 Nephi 17:1, 2 Nephi 17:3, + 3 more
-- aiath (1) - 2 Nephi 20:28
-- akish (24) - Ether 8:10, Ether 8:11, + 22 more
-- amaleki (6) - Omni 1:12, Omni 1:23, + 4 more
-- amalekite (1) - Alma 21:5
-- amalekites (18) - Alma 21:2, Alma 21:3, + 16 more
-- amalickiah (63) - Alma 46:3, Alma 46:4, + 61 more
-- amalickiahites (4) - Alma 46:28, Alma 46:29, + 2 more
-- amalickiahs (1) - Alma 47:8
-- amaron (2) - Omni 1:3, Omni 1:4
-- amgid (2) - Ether 10:32, Ether 10:32
-- aminadab (3) - Helaman 5:39, Helaman 5:39, + 1 more
-- aminadi (3) - Alma 10:2, Alma 10:2, + 1 more
-- amlici (16) - Alma 2:1, Alma 2:2, + 14 more
-- amlicites (27) - Alma 2:11, Alma 2:12, + 25 more
-- ammah (2) - Alma 20:2, Alma 21:11
-- ammaron (10) - 4 Nephi 1:47, 4 Nephi 1:48, + 8 more
-- ammon (174) - 2 Nephi 21:14, Mosiah 7:3, + 172 more
-- ammonihah (26) - Alma 8:6, Alma 8:7, + 24 more
-- ammonihahites (1) - Alma 16:9
-- ammonites (2) - Alma 56:57, Alma 57:6
-- ammoron (24) - Alma 52:3, Alma 52:3, + 22 more
-- amnigaddah (4) - Ether 1:14, Ether 1:15, + 2 more
-- amnihu (1) - Alma 2:15
-- amnor (3) - Alma 2:22, Alma 11:6, + 1 more
-- amoron (1) - Moroni 9:7
-- amos (4) - 4 Nephi 1:19, 4 Nephi 1:21, + 2 more
-- amoz (2) - 2 Nephi 12:1, 2 Nephi 23:1
-- amulek (73) - Alma 8:21, Alma 8:22, + 71 more
-- amulon (20) - Mosiah 23:31, Mosiah 23:31, + 18 more
-- amulonites (7) - Alma 21:3, Alma 21:4, + 5 more
-- anathoth (1) - 2 Nephi 20:30
-- angelah (1) - Mormon 2:4
-- ani-anti (1) - Alma 21:11
-- anti-nephi-lehi (11) - Alma 24:1, Alma 24:2, + 9 more
-- anti-nephi-lehies (1) - Alma 23:17
-- antiomno (1) - Alma 20:4
-- antion (1) - Alma 11:19
-- antionah (1) - Alma 12:20
-- antionam (1) - Alma 43:5
-- antionum (4) - Alma 31:3, Alma 43:15, + 2 more
-- antiparah (9) - Alma 56:14, Alma 56:31, + 7 more
-- antipas (3) - Alma 47:7, Alma 47:9, + 1 more
-- antipus (20) - Alma 56:9, Alma 56:10, + 18 more
-- antum (1) - Mormon 1:3
-- archeantus (1) - Moroni 9:2
-- arpad (1) - 2 Nephi 20:9
-- assyria (8) - 2 Nephi 17:17, 2 Nephi 17:18, + 6 more
-- assyrian (3) - 2 Nephi 20:5, 2 Nephi 20:24, + 1 more
-- babylon (11) - 1 Nephi 1:13, 1 Nephi 10:3, + 9 more
-- bashan (1) - 2 Nephi 12:13
-- beaz (1) - Mormon 4:20
-- bethabara (1) - 1 Nephi 10:9
-- cain (3) - Helaman 6:27, Helaman 6:27, + 1 more
-- calno (1) - 2 Nephi 20:9
-- camenihah (1) - Mormon 6:14
-- camorah (9) - Mormon 6:2, Mormon 6:2, + 7 more
-- carchemish (1) - 2 Nephi 20:9
-- cezoram (3) - Helaman 5:1, Helaman 6:15, + 1 more
-- chaldeans (2) - 1 Nephi 20:14, 1 Nephi 20:20
-- chaldees (1) - 2 Nephi 23:19
-- chemish (3) - Omni 1:8, Omni 1:9, + 1 more
-- cohor (7) - Ether 7:15, Ether 7:20, + 5 more
-- comnor (2) - Ether 14:28, Ether 14:28
-- corianton (3) - Alma 31:7, Alma 49:30, + 1 more
-- coriantor (6) - Ether 1:6, Ether 1:7, + 4 more
-- coriantum (11) - Ether 1:13, Ether 1:14, + 9 more
-- coriantumr (76) - Omni 1:21, Omni 1:21, + 74 more
-- corihor (12) - Ether 7:3, Ether 7:4, + 10 more
-- corom (4) - Ether 1:19, Ether 1:20, + 2 more
-- cumeni (7) - Alma 56:14, Alma 57:7, + 5 more
-- cush (1) - 2 Nephi 21:11
-- damascus (4) - 2 Nephi 17:8, 2 Nephi 17:8, + 2 more
-- david (7) - 2 Nephi 17:2, 2 Nephi 17:13, + 5 more
-- edom (1) - 2 Nephi 21:14
-- egypt (18) - 1 Nephi 5:14, 1 Nephi 5:15, + 16 more
-- elam (1) - 2 Nephi 21:11
-- elijah (1) - 3 Nephi 25:5
-- emer (9) - Ether 1:28, Ether 1:29, + 7 more
-- emron (1) - Moroni 9:2
-- enos (8) - Jacob 7:27, Enos 1:1, + 6 more
-- ephah (1) - 2 Nephi 15:10
-- ephraim (12) - 2 Nephi 17:2, 2 Nephi 17:5, + 10 more
-- esrom (1) - Ether 8:4
-- ethem (5) - Ether 1:8, Ether 1:9, + 3 more
-- gaddianhi (1) - 3 Nephi 4:9
-- gaddianton (5) - 4 Nephi 1:42, 4 Nephi 1:46, + 3 more
-- gadiandi (1) - 3 Nephi 9:8
-- gadianton (25) - Helaman 2:4, Helaman 2:11, + 23 more
-- gadiantons (2) - Helaman 6:18, Helaman 6:18
-- gadiomnah (1) - 3 Nephi 9:8
-- galilee (1) - 2 Nephi 19:1
-- gallim (1) - 2 Nephi 20:30
-- geba (1) - 2 Nephi 20:29
-- gebim (1) - 2 Nephi 20:31
-- gibeah (1) - 2 Nephi 20:29
-- gid (17) - Alma 51:26, Alma 55:7, + 15 more
-- giddianhi (12) - 3 Nephi 3:9, 3 Nephi 3:10, + 10 more
-- giddonah (2) - Alma 10:2, Alma 30:23
-- gideon (36) - Mosiah 19:4, Mosiah 19:6, + 34 more
-- gidgiddonah (1) - Mormon 6:13
-- gidgiddoni (10) - 3 Nephi 3:18, 3 Nephi 3:19, + 8 more
-- gilead (1) - Ether 14:8
-- gilgah (1) - Ether 6:14
-- gilgal (5) - 3 Nephi 9:6, Mormon 6:14, + 3 more
-- gimgimno (1) - 3 Nephi 9:8
-- gomorrah (1) - 2 Nephi 23:19
-- hagoth (1) - Alma 63:5
-- hamath (2) - 2 Nephi 20:9, 2 Nephi 21:11
-- hearthom (5) - Ether 1:16, Ether 1:17, + 3 more
-- helam (16) - Mosiah 18:12, Mosiah 18:13, + 14 more
-- helaman (72) - Mosiah 1:2, Alma 31:7, + 70 more
-- helamans (1) - Alma 59:1
-- helem (1) - Mosiah 7:6
-- helorum (1) - Mosiah 1:2
-- hermounts (1) - Alma 2:37
-- heshlon (1) - Ether 13:28
-- heth (12) - Ether 1:16, Ether 1:25, + 10 more
-- himni (6) - Mosiah 27:34, Alma 22:35, + 4 more
-- horeb (1) - 3 Nephi 25:4
-- immanuel (2) - 2 Nephi 17:14, 2 Nephi 18:8
-- isaac (13) - 1 Nephi 6:4, 1 Nephi 17:40, + 11 more
-- isaiah (24) - 1 Nephi 15:20, 1 Nephi 19:23, + 22 more
-- ishmael (42) - 1 Nephi 7:2, 1 Nephi 7:4, + 40 more
-- ishmaelites (5) - Jacob 1:13, Alma 47:35, + 3 more
-- ishmaelitish (1) - Alma 3:7
-- israel (211) - 1 Nephi 5:9, 1 Nephi 5:10, + 209 more
-- israelites (1) - Helaman 8:11
-- jacob (99) - 1 Nephi 5:14, 1 Nephi 5:14, + 97 more
-- jacobites (4) - Jacob 1:13, 4 Nephi 1:36, + 2 more
-- jacobugath (1) - 3 Nephi 9:9
-- jacom (1) - Ether 6:14
-- jared (87) - Ether 1:32, Ether 1:33, + 85 more
-- jaredites (1) - Moroni 9:23
-- jarom (3) - Jarom 1:1, Jarom 1:14, + 1 more
-- jashon (2) - Mormon 2:16, Mormon 2:17
-- jeberechiah (1) - 2 Nephi 18:2
-- jeremiah (6) - 1 Nephi 5:13, 1 Nephi 7:14, + 4 more
-- jershon (26) - Alma 27:22, Alma 27:22, + 24 more
-- jerusalem (161) - 1 Nephi 1:4, 1 Nephi 1:4, + 159 more
-- jesus (185) - 1 Nephi 12:18, 2 Nephi 25:19, + 183 more
-- john (3) - 1 Nephi 14:27, 3 Nephi 28:6, + 1 more
-- jonas (2) - 3 Nephi 19:4, 3 Nephi 19:4
-- joneam (1) - Mormon 6:14
-- jordan (4) - 1 Nephi 10:9, 1 Nephi 17:32, + 2 more
-- joseph (43) - 1 Nephi 5:14, 1 Nephi 5:14, + 41 more
-- josephites (4) - Jacob 1:13, 4 Nephi 1:36, + 2 more
-- josh (2) - 3 Nephi 9:10, Mormon 6:14
-- joshua (1) - Mormon 2:6
-- jotham (1) - 2 Nephi 17:1
-- judah (21) - 1 Nephi 1:4, 1 Nephi 5:12, + 19 more
-- judea (5) - Alma 56:9, Alma 56:15, + 3 more
-- kib (8) - Ether 1:31, Ether 1:32, + 6 more
-- kim (5) - Ether 1:21, Ether 1:22, + 3 more
-- kimnor (1) - Ether 8:10
-- kish (4) - Ether 1:18, Ether 1:19, + 2 more
-- kishkumen (19) - Helaman 1:9, Helaman 1:10, + 17 more
-- korihor (15) - Alma 30:12, Alma 30:23, + 13 more
-- kumen (1) - 3 Nephi 19:4
-- kumenonhi (1) - 3 Nephi 19:4
-- laban (45) - 1 Nephi 3:3, 1 Nephi 3:4, + 43 more
-- lachoneus (17) - 3 Nephi 1:1, 3 Nephi 3:1, + 15 more
-- laish (1) - 2 Nephi 20:30
-- lamah (1) - Mormon 6:14
-- laman (53) - 1 Nephi 2:5, 1 Nephi 2:8, + 51 more
-- lamanite (14) - Alma 54:2, Alma 54:24, + 12 more
-- lamanites (691) - 2 Nephi 5:14, Jacob 1:13, + 689 more
-- lamanitish (2) - Alma 17:26, Alma 19:16
-- lamoni (47) - Alma 17:21, Alma 17:24, + 45 more
-- leah (1) - Alma 11:17
-- lebanon (4) - 2 Nephi 12:13, 2 Nephi 20:34, + 2 more
-- lehi (107) - 1 Nephi 1:4, 1 Nephi 1:5, + 105 more
-- lehi-nephi (7) - Mosiah 7:1, Mosiah 7:1, + 5 more
-- lehonti (10) - Alma 47:10, Alma 47:11, + 8 more
-- lehontis (2) - Alma 47:12, Alma 47:13
-- lemuel (30) - 1 Nephi 2:5, 1 Nephi 2:10, + 28 more
-- lemuelites (5) - Jacob 1:13, Alma 47:35, + 3 more
-- levi (5) - 3 Nephi 24:3, Ether 1:20, + 3 more
-- limhah (1) - Mormon 6:14
-- limher (1) - Alma 2:22
-- limhi (55) - Mosiah 7:9, Mosiah 7:14, + 53 more
-- luram (1) - Moroni 9:2
-- madmenah (1) - 2 Nephi 20:31
-- mahah (1) - Ether 6:14
-- maher-shalal-hash-baz (2) - 2 Nephi 18:1, 2 Nephi 18:3
-- malachi (2) - 3 Nephi 24:1, 3 Nephi 24:1
-- manasseh (3) - 2 Nephi 19:21, 2 Nephi 19:21, + 1 more
-- manti (22) - Alma 1:15, Alma 2:22, + 20 more
-- mary (2) - Mosiah 3:8, Alma 7:10
-- mathoni (1) - 3 Nephi 19:4
-- mathonihah (1) - 3 Nephi 19:4
-- medes (1) - 2 Nephi 23:17
-- melchizedek (5) - Alma 13:14, Alma 13:15, + 3 more
-- melek (8) - Alma 8:3, Alma 8:4, + 6 more
-- michmash (1) - 2 Nephi 20:28
-- middoni (17) - Alma 20:2, Alma 20:3, + 15 more
-- midian (2) - 2 Nephi 20:26, Alma 24:5
-- migron (1) - 2 Nephi 20:28
-- minon (1) - Alma 2:24
-- moab (1) - 2 Nephi 21:14
-- mocum (1) - 3 Nephi 9:7
-- moriancumer (1) - Ether 2:13
-- morianton (24) - Alma 50:25, Alma 50:26, + 22 more
-- moriantum (1) - Moroni 9:9
-- morionton (1) - Alma 55:33
-- mormon (43) - Words of Mormon 1:1, Words of Mormon 1:9, + 41 more
-- moron (14) - Ether 1:7, Ether 1:8, + 12 more
-- moroni (215) - Words of Mormon 1:1, Alma 43:16, + 213 more
-- moronihah (20) - Alma 62:43, Alma 63:15, + 18 more
-- moronis (1) - Alma 44:12
-- moses (75) - 1 Nephi 4:2, 1 Nephi 4:15, + 73 more
-- mosiah (78) - Omni 1:12, Omni 1:14, + 76 more
-- mulek (16) - Alma 51:26, Alma 52:2, + 14 more
-- mulok (1) - Mosiah 25:2
-- muloki (2) - Alma 20:2, Alma 21:11
-- nahom (1) - 1 Nephi 16:34
-- naphtali (1) - 2 Nephi 19:1
-- nazareth (2) - 1 Nephi 11:13, 1 Nephi 11:13
-- nehor (10) - Alma 1:15, Alma 2:20, + 8 more
-- nehors (4) - Alma 16:11, Alma 21:4, + 2 more
-- nephi (450) - 1 Nephi 1:1, 1 Nephi 1:16, + 448 more
-- nephihah (24) - Alma 4:17, Alma 4:18, + 22 more
-- nephite (10) - Alma 8:20, Alma 19:18, + 8 more
-- nephites (369) - 2 Nephi 29:12, 2 Nephi 29:13, + 367 more
-- neum (1) - 1 Nephi 19:10
-- nimrah (2) - Ether 9:8, Ether 9:9
-- nimrod (4) - Ether 2:1, Ether 2:4, + 2 more
-- noah (46) - Mosiah 7:9, Mosiah 11:1, + 44 more
-- nob (1) - 2 Nephi 20:32
-- ogath (1) - Ether 15:10
-- omner (8) - Mosiah 27:34, Alma 22:35, + 6 more
-- omni (2) - Jarom 1:15, Omni 1:1
-- onidah (3) - Alma 32:4, Alma 47:5, + 1 more
-- onihah (1) - 3 Nephi 9:7
-- ophir (1) - 2 Nephi 23:12
-- oreb (1) - 2 Nephi 20:26
-- orihah (5) - Ether 1:32, Ether 6:14, + 3 more
-- paanchi (2) - Helaman 1:3, Helaman 1:7
-- pachus (5) - Alma 62:6, Alma 62:7, + 3 more
-- pacumeni (5) - Helaman 1:3, Helaman 1:6, + 3 more
-- pagag (2) - Ether 6:25, Ether 6:26
-- paharon (3) - Alma 62:1, Alma 62:2, + 1 more
-- pahoran (34) - Alma 50:40, Alma 50:40, + 32 more
-- palestina (2) - 2 Nephi 24:29, 2 Nephi 24:31
-- pathros (1) - 2 Nephi 21:11
-- pekah (1) - 2 Nephi 17:1
-- pharaoh (2) - 1 Nephi 4:2, 1 Nephi 17:27
-- philistines (3) - 2 Nephi 12:6, 2 Nephi 19:12, + 1 more
-- rahab (1) - 2 Nephi 8:9
-- ramah (1) - Ether 15:11
-- ramath (1) - 2 Nephi 20:29
-- remaliah (3) - 2 Nephi 17:1, 2 Nephi 17:4, + 1 more
-- remaliahs (2) - 2 Nephi 17:9, 2 Nephi 18:6
-- rezin (5) - 2 Nephi 17:1, 2 Nephi 17:4, + 3 more
-- riplah (2) - Alma 43:31, Alma 43:35
-- riplakish (7) - Ether 1:23, Ether 1:24, + 5 more
-- ripliancum (1) - Ether 15:8
-- salem (2) - Alma 13:17, Alma 13:18
-- sam (10) - 1 Nephi 2:5, 1 Nephi 2:17, + 8 more
-- samaria (7) - 2 Nephi 17:9, 2 Nephi 17:9, + 5 more
-- samuel (16) - Helaman 13:2, Helaman 13:5, + 14 more
-- sarah (1) - 2 Nephi 8:2
-- sariah (4) - 1 Nephi 2:5, 1 Nephi 5:1, + 2 more
-- seantum (1) - Helaman 9:26
-- sebus (6) - Alma 17:26, Alma 17:34, + 4 more
-- seezoram (3) - Helaman 9:23, Helaman 9:26, + 1 more
-- seth (3) - Ether 1:10, Ether 1:11, + 1 more
-- shazer (2) - 1 Nephi 16:13, 1 Nephi 16:14
-- shearjashub (1) - 2 Nephi 17:3
-- shelem (1) - Ether 3:1
-- shem (3) - Mormon 2:20, Mormon 2:21, + 1 more
-- shemlon (6) - Mosiah 10:7, Mosiah 11:12, + 4 more
-- shemnon (1) - 3 Nephi 19:4
-- sherem (3) - Jacob 7:1, Jacob 7:7, + 1 more
-- sherrizah (3) - Moroni 9:7, Moroni 9:16, + 1 more
-- shez (9) - Ether 1:24, Ether 1:25, + 7 more
-- shiblom (7) - Mormon 6:14, Ether 11:4, + 5 more
-- shiloah (1) - 2 Nephi 18:6
-- shilom (15) - Mosiah 7:5, Mosiah 7:7, + 13 more
-- shim (3) - Mormon 1:3, Mormon 4:23, + 1 more
-- shimnilom (1) - Alma 23:12
-- shinar (1) - 2 Nephi 21:11
-- shiz (31) - Ether 14:17, Ether 14:17, + 29 more
-- shule (26) - Ether 1:30, Ether 1:31, + 24 more
-- shurr (2) - Ether 14:28, Ether 14:28
-- sidom (8) - Alma 2:17, Alma 15:1, + 6 more
-- sidon (36) - Alma 2:15, Alma 2:27, + 34 more
-- sinai (2) - Mosiah 12:33, Mosiah 13:5
-- sinim (1) - 1 Nephi 21:12
-- siron (1) - Alma 39:3
-- sodom (2) - 2 Nephi 13:9, 2 Nephi 23:19
-- solomon (6) - 2 Nephi 5:16, 2 Nephi 5:16, + 4 more
-- solomons (1) - 2 Nephi 5:16
-- syria (5) - 2 Nephi 17:1, 2 Nephi 17:2, + 3 more
-- syrians (1) - 2 Nephi 19:12
-- tabeal (1) - 2 Nephi 17:6
-- tarshish (1) - 2 Nephi 12:16
-- teancum (43) - Alma 50:35, Alma 50:35, + 41 more
-- teomner (4) - Alma 58:16, Alma 58:19, + 2 more
-- timothy (1) - 3 Nephi 19:4
-- tubaloth (2) - Helaman 1:16, Helaman 1:16
-- uriah (1) - 2 Nephi 18:2
-- uzziah (2) - 2 Nephi 16:1, 2 Nephi 17:1
-- zarahemla (148) - Omni 1:12, Omni 1:13, + 146 more
-- zebulun (1) - 2 Nephi 19:1
-- zechariah (1) - 2 Nephi 18:2
-- zedekiah (8) - 1 Nephi 1:4, 1 Nephi 5:12, + 6 more
-- zeezrom (28) - Alma 10:31, Alma 11:21, + 26 more
-- zemnarihah (5) - 3 Nephi 4:17, 3 Nephi 4:17, + 3 more
-- zenas (1) - Helaman 8:19
-- zenephi (1) - Moroni 9:16
-- zeniff (10) - Mosiah 7:9, Mosiah 7:13, + 8 more
-- zenoch (1) - Helaman 8:20
-- zenock (4) - 1 Nephi 19:10, Alma 33:15, + 2 more
-- zenos (11) - 1 Nephi 19:10, 1 Nephi 19:12, + 9 more
-- zerahemnah (17) - Alma 43:5, Alma 43:6, + 15 more
-- zeram (1) - Alma 2:22
-- zerin (1) - Ether 12:30
-- zion (45) - 1 Nephi 13:37, 1 Nephi 21:14, + 43 more
-- zoram (12) - 1 Nephi 4:35, 1 Nephi 4:35, + 10 more
-- zoramite (2) - Alma 52:20, Alma 52:33
-- zoramites (33) - Jacob 1:13, Alma 30:59, + 31 more
+- aaron (50) - [Mosiah 27:34](https://bom-editions.vercel.app/en/1830/mosiah/27#34), [Mosiah 29:2](https://bom-editions.vercel.app/en/1830/mosiah/29#2), + 48 more
+- abel (1) - [Helaman 6:27](https://bom-editions.vercel.app/en/1830/helaman/6#27)
+- abinadi (37) - [Mosiah 11:20](https://bom-editions.vercel.app/en/1830/mosiah/11#20), [Mosiah 11:26](https://bom-editions.vercel.app/en/1830/mosiah/11#26), + 35 more
+- abinadom (2) - [Omni 1:10](https://bom-editions.vercel.app/en/1830/omni/1#10), [Omni 1:12](https://bom-editions.vercel.app/en/1830/omni/1#12)
+- abish (1) - [Alma 19:16](https://bom-editions.vercel.app/en/1830/alma/19#16)
+- ablom (1) - [Ether 9:3](https://bom-editions.vercel.app/en/1830/ether/9#3)
+- abraham (29) - [1 Nephi 6:4](https://bom-editions.vercel.app/en/1830/1-nephi/6#4), [1 Nephi 15:18](https://bom-editions.vercel.app/en/1830/1-nephi/15#18), + 27 more
+- agosh (2) - [Ether 14:15](https://bom-editions.vercel.app/en/1830/ether/14#15), [Ether 14:16](https://bom-editions.vercel.app/en/1830/ether/14#16)
+- ahah (4) - [Ether 1:9](https://bom-editions.vercel.app/en/1830/ether/1#9), [Ether 1:10](https://bom-editions.vercel.app/en/1830/ether/1#10), + 2 more
+- ahaz (5) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1), [2 Nephi 17:3](https://bom-editions.vercel.app/en/1830/2-nephi/17#3), + 3 more
+- aiath (1) - [2 Nephi 20:28](https://bom-editions.vercel.app/en/1830/2-nephi/20#28)
+- akish (24) - [Ether 8:10](https://bom-editions.vercel.app/en/1830/ether/8#10), [Ether 8:11](https://bom-editions.vercel.app/en/1830/ether/8#11), + 22 more
+- amaleki (6) - [Omni 1:12](https://bom-editions.vercel.app/en/1830/omni/1#12), [Omni 1:23](https://bom-editions.vercel.app/en/1830/omni/1#23), + 4 more
+- amalekite (1) - [Alma 21:5](https://bom-editions.vercel.app/en/1830/alma/21#5)
+- amalekites (18) - [Alma 21:2](https://bom-editions.vercel.app/en/1830/alma/21#2), [Alma 21:3](https://bom-editions.vercel.app/en/1830/alma/21#3), + 16 more
+- amalickiah (63) - [Alma 46:3](https://bom-editions.vercel.app/en/1830/alma/46#3), [Alma 46:4](https://bom-editions.vercel.app/en/1830/alma/46#4), + 61 more
+- amalickiahites (4) - [Alma 46:28](https://bom-editions.vercel.app/en/1830/alma/46#28), [Alma 46:29](https://bom-editions.vercel.app/en/1830/alma/46#29), + 2 more
+- amalickiahs (1) - [Alma 47:8](https://bom-editions.vercel.app/en/1830/alma/47#8)
+- amaron (2) - [Omni 1:3](https://bom-editions.vercel.app/en/1830/omni/1#3), [Omni 1:4](https://bom-editions.vercel.app/en/1830/omni/1#4)
+- amgid (2) - [Ether 10:32](https://bom-editions.vercel.app/en/1830/ether/10#32), [Ether 10:32](https://bom-editions.vercel.app/en/1830/ether/10#32)
+- aminadab (3) - [Helaman 5:39](https://bom-editions.vercel.app/en/1830/helaman/5#39), [Helaman 5:39](https://bom-editions.vercel.app/en/1830/helaman/5#39), + 1 more
+- aminadi (3) - [Alma 10:2](https://bom-editions.vercel.app/en/1830/alma/10#2), [Alma 10:2](https://bom-editions.vercel.app/en/1830/alma/10#2), + 1 more
+- amlici (16) - [Alma 2:1](https://bom-editions.vercel.app/en/1830/alma/2#1), [Alma 2:2](https://bom-editions.vercel.app/en/1830/alma/2#2), + 14 more
+- amlicites (27) - [Alma 2:11](https://bom-editions.vercel.app/en/1830/alma/2#11), [Alma 2:12](https://bom-editions.vercel.app/en/1830/alma/2#12), + 25 more
+- ammah (2) - [Alma 20:2](https://bom-editions.vercel.app/en/1830/alma/20#2), [Alma 21:11](https://bom-editions.vercel.app/en/1830/alma/21#11)
+- ammaron (10) - [4 Nephi 1:47](https://bom-editions.vercel.app/en/1830/4-nephi/1#47), [4 Nephi 1:48](https://bom-editions.vercel.app/en/1830/4-nephi/1#48), + 8 more
+- ammon (174) - [2 Nephi 21:14](https://bom-editions.vercel.app/en/1830/2-nephi/21#14), [Mosiah 7:3](https://bom-editions.vercel.app/en/1830/mosiah/7#3), + 172 more
+- ammonihah (26) - [Alma 8:6](https://bom-editions.vercel.app/en/1830/alma/8#6), [Alma 8:7](https://bom-editions.vercel.app/en/1830/alma/8#7), + 24 more
+- ammonihahites (1) - [Alma 16:9](https://bom-editions.vercel.app/en/1830/alma/16#9)
+- ammonites (2) - [Alma 56:57](https://bom-editions.vercel.app/en/1830/alma/56#57), [Alma 57:6](https://bom-editions.vercel.app/en/1830/alma/57#6)
+- ammoron (24) - [Alma 52:3](https://bom-editions.vercel.app/en/1830/alma/52#3), [Alma 52:3](https://bom-editions.vercel.app/en/1830/alma/52#3), + 22 more
+- amnigaddah (4) - [Ether 1:14](https://bom-editions.vercel.app/en/1830/ether/1#14), [Ether 1:15](https://bom-editions.vercel.app/en/1830/ether/1#15), + 2 more
+- amnihu (1) - [Alma 2:15](https://bom-editions.vercel.app/en/1830/alma/2#15)
+- amnor (3) - [Alma 2:22](https://bom-editions.vercel.app/en/1830/alma/2#22), [Alma 11:6](https://bom-editions.vercel.app/en/1830/alma/11#6), + 1 more
+- amoron (1) - [Moroni 9:7](https://bom-editions.vercel.app/en/1830/moroni/9#7)
+- amos (4) - [4 Nephi 1:19](https://bom-editions.vercel.app/en/1830/4-nephi/1#19), [4 Nephi 1:21](https://bom-editions.vercel.app/en/1830/4-nephi/1#21), + 2 more
+- amoz (2) - [2 Nephi 12:1](https://bom-editions.vercel.app/en/1830/2-nephi/12#1), [2 Nephi 23:1](https://bom-editions.vercel.app/en/1830/2-nephi/23#1)
+- amulek (73) - [Alma 8:21](https://bom-editions.vercel.app/en/1830/alma/8#21), [Alma 8:22](https://bom-editions.vercel.app/en/1830/alma/8#22), + 71 more
+- amulon (20) - [Mosiah 23:31](https://bom-editions.vercel.app/en/1830/mosiah/23#31), [Mosiah 23:31](https://bom-editions.vercel.app/en/1830/mosiah/23#31), + 18 more
+- amulonites (7) - [Alma 21:3](https://bom-editions.vercel.app/en/1830/alma/21#3), [Alma 21:4](https://bom-editions.vercel.app/en/1830/alma/21#4), + 5 more
+- anathoth (1) - [2 Nephi 20:30](https://bom-editions.vercel.app/en/1830/2-nephi/20#30)
+- angelah (1) - [Mormon 2:4](https://bom-editions.vercel.app/en/1830/mormon/2#4)
+- ani-anti (1) - [Alma 21:11](https://bom-editions.vercel.app/en/1830/alma/21#11)
+- anti-nephi-lehi (11) - [Alma 24:1](https://bom-editions.vercel.app/en/1830/alma/24#1), [Alma 24:2](https://bom-editions.vercel.app/en/1830/alma/24#2), + 9 more
+- anti-nephi-lehies (1) - [Alma 23:17](https://bom-editions.vercel.app/en/1830/alma/23#17)
+- antiomno (1) - [Alma 20:4](https://bom-editions.vercel.app/en/1830/alma/20#4)
+- antion (1) - [Alma 11:19](https://bom-editions.vercel.app/en/1830/alma/11#19)
+- antionah (1) - [Alma 12:20](https://bom-editions.vercel.app/en/1830/alma/12#20)
+- antionam (1) - [Alma 43:5](https://bom-editions.vercel.app/en/1830/alma/43#5)
+- antionum (4) - [Alma 31:3](https://bom-editions.vercel.app/en/1830/alma/31#3), [Alma 43:15](https://bom-editions.vercel.app/en/1830/alma/43#15), + 2 more
+- antiparah (9) - [Alma 56:14](https://bom-editions.vercel.app/en/1830/alma/56#14), [Alma 56:31](https://bom-editions.vercel.app/en/1830/alma/56#31), + 7 more
+- antipas (3) - [Alma 47:7](https://bom-editions.vercel.app/en/1830/alma/47#7), [Alma 47:9](https://bom-editions.vercel.app/en/1830/alma/47#9), + 1 more
+- antipus (20) - [Alma 56:9](https://bom-editions.vercel.app/en/1830/alma/56#9), [Alma 56:10](https://bom-editions.vercel.app/en/1830/alma/56#10), + 18 more
+- antum (1) - [Mormon 1:3](https://bom-editions.vercel.app/en/1830/mormon/1#3)
+- archeantus (1) - [Moroni 9:2](https://bom-editions.vercel.app/en/1830/moroni/9#2)
+- arpad (1) - [2 Nephi 20:9](https://bom-editions.vercel.app/en/1830/2-nephi/20#9)
+- assyria (8) - [2 Nephi 17:17](https://bom-editions.vercel.app/en/1830/2-nephi/17#17), [2 Nephi 17:18](https://bom-editions.vercel.app/en/1830/2-nephi/17#18), + 6 more
+- assyrian (3) - [2 Nephi 20:5](https://bom-editions.vercel.app/en/1830/2-nephi/20#5), [2 Nephi 20:24](https://bom-editions.vercel.app/en/1830/2-nephi/20#24), + 1 more
+- babylon (11) - [1 Nephi 1:13](https://bom-editions.vercel.app/en/1830/1-nephi/1#13), [1 Nephi 10:3](https://bom-editions.vercel.app/en/1830/1-nephi/10#3), + 9 more
+- bashan (1) - [2 Nephi 12:13](https://bom-editions.vercel.app/en/1830/2-nephi/12#13)
+- beaz (1) - [Mormon 4:20](https://bom-editions.vercel.app/en/1830/mormon/4#20)
+- bethabara (1) - [1 Nephi 10:9](https://bom-editions.vercel.app/en/1830/1-nephi/10#9)
+- cain (3) - [Helaman 6:27](https://bom-editions.vercel.app/en/1830/helaman/6#27), [Helaman 6:27](https://bom-editions.vercel.app/en/1830/helaman/6#27), + 1 more
+- calno (1) - [2 Nephi 20:9](https://bom-editions.vercel.app/en/1830/2-nephi/20#9)
+- camenihah (1) - [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14)
+- camorah (9) - [Mormon 6:2](https://bom-editions.vercel.app/en/1830/mormon/6#2), [Mormon 6:2](https://bom-editions.vercel.app/en/1830/mormon/6#2), + 7 more
+- carchemish (1) - [2 Nephi 20:9](https://bom-editions.vercel.app/en/1830/2-nephi/20#9)
+- cezoram (3) - [Helaman 5:1](https://bom-editions.vercel.app/en/1830/helaman/5#1), [Helaman 6:15](https://bom-editions.vercel.app/en/1830/helaman/6#15), + 1 more
+- chaldeans (2) - [1 Nephi 20:14](https://bom-editions.vercel.app/en/1830/1-nephi/20#14), [1 Nephi 20:20](https://bom-editions.vercel.app/en/1830/1-nephi/20#20)
+- chaldees (1) - [2 Nephi 23:19](https://bom-editions.vercel.app/en/1830/2-nephi/23#19)
+- chemish (3) - [Omni 1:8](https://bom-editions.vercel.app/en/1830/omni/1#8), [Omni 1:9](https://bom-editions.vercel.app/en/1830/omni/1#9), + 1 more
+- cohor (7) - [Ether 7:15](https://bom-editions.vercel.app/en/1830/ether/7#15), [Ether 7:20](https://bom-editions.vercel.app/en/1830/ether/7#20), + 5 more
+- comnor (2) - [Ether 14:28](https://bom-editions.vercel.app/en/1830/ether/14#28), [Ether 14:28](https://bom-editions.vercel.app/en/1830/ether/14#28)
+- corianton (3) - [Alma 31:7](https://bom-editions.vercel.app/en/1830/alma/31#7), [Alma 49:30](https://bom-editions.vercel.app/en/1830/alma/49#30), + 1 more
+- coriantor (6) - [Ether 1:6](https://bom-editions.vercel.app/en/1830/ether/1#6), [Ether 1:7](https://bom-editions.vercel.app/en/1830/ether/1#7), + 4 more
+- coriantum (11) - [Ether 1:13](https://bom-editions.vercel.app/en/1830/ether/1#13), [Ether 1:14](https://bom-editions.vercel.app/en/1830/ether/1#14), + 9 more
+- coriantumr (76) - [Omni 1:21](https://bom-editions.vercel.app/en/1830/omni/1#21), [Omni 1:21](https://bom-editions.vercel.app/en/1830/omni/1#21), + 74 more
+- corihor (12) - [Ether 7:3](https://bom-editions.vercel.app/en/1830/ether/7#3), [Ether 7:4](https://bom-editions.vercel.app/en/1830/ether/7#4), + 10 more
+- corom (4) - [Ether 1:19](https://bom-editions.vercel.app/en/1830/ether/1#19), [Ether 1:20](https://bom-editions.vercel.app/en/1830/ether/1#20), + 2 more
+- cumeni (7) - [Alma 56:14](https://bom-editions.vercel.app/en/1830/alma/56#14), [Alma 57:7](https://bom-editions.vercel.app/en/1830/alma/57#7), + 5 more
+- cush (1) - [2 Nephi 21:11](https://bom-editions.vercel.app/en/1830/2-nephi/21#11)
+- damascus (4) - [2 Nephi 17:8](https://bom-editions.vercel.app/en/1830/2-nephi/17#8), [2 Nephi 17:8](https://bom-editions.vercel.app/en/1830/2-nephi/17#8), + 2 more
+- david (7) - [2 Nephi 17:2](https://bom-editions.vercel.app/en/1830/2-nephi/17#2), [2 Nephi 17:13](https://bom-editions.vercel.app/en/1830/2-nephi/17#13), + 5 more
+- edom (1) - [2 Nephi 21:14](https://bom-editions.vercel.app/en/1830/2-nephi/21#14)
+- egypt (18) - [1 Nephi 5:14](https://bom-editions.vercel.app/en/1830/1-nephi/5#14), [1 Nephi 5:15](https://bom-editions.vercel.app/en/1830/1-nephi/5#15), + 16 more
+- elam (1) - [2 Nephi 21:11](https://bom-editions.vercel.app/en/1830/2-nephi/21#11)
+- elijah (1) - [3 Nephi 25:5](https://bom-editions.vercel.app/en/1830/3-nephi/25#5)
+- emer (9) - [Ether 1:28](https://bom-editions.vercel.app/en/1830/ether/1#28), [Ether 1:29](https://bom-editions.vercel.app/en/1830/ether/1#29), + 7 more
+- emron (1) - [Moroni 9:2](https://bom-editions.vercel.app/en/1830/moroni/9#2)
+- enos (8) - [Jacob 7:27](https://bom-editions.vercel.app/en/1830/jacob/7#27), [Enos 1:1](https://bom-editions.vercel.app/en/1830/enos/1#1), + 6 more
+- ephah (1) - [2 Nephi 15:10](https://bom-editions.vercel.app/en/1830/2-nephi/15#10)
+- ephraim (12) - [2 Nephi 17:2](https://bom-editions.vercel.app/en/1830/2-nephi/17#2), [2 Nephi 17:5](https://bom-editions.vercel.app/en/1830/2-nephi/17#5), + 10 more
+- esrom (1) - [Ether 8:4](https://bom-editions.vercel.app/en/1830/ether/8#4)
+- ethem (5) - [Ether 1:8](https://bom-editions.vercel.app/en/1830/ether/1#8), [Ether 1:9](https://bom-editions.vercel.app/en/1830/ether/1#9), + 3 more
+- gaddianhi (1) - [3 Nephi 4:9](https://bom-editions.vercel.app/en/1830/3-nephi/4#9)
+- gaddianton (5) - [4 Nephi 1:42](https://bom-editions.vercel.app/en/1830/4-nephi/1#42), [4 Nephi 1:46](https://bom-editions.vercel.app/en/1830/4-nephi/1#46), + 3 more
+- gadiandi (1) - [3 Nephi 9:8](https://bom-editions.vercel.app/en/1830/3-nephi/9#8)
+- gadianton (25) - [Helaman 2:4](https://bom-editions.vercel.app/en/1830/helaman/2#4), [Helaman 2:11](https://bom-editions.vercel.app/en/1830/helaman/2#11), + 23 more
+- gadiantons (2) - [Helaman 6:18](https://bom-editions.vercel.app/en/1830/helaman/6#18), [Helaman 6:18](https://bom-editions.vercel.app/en/1830/helaman/6#18)
+- gadiomnah (1) - [3 Nephi 9:8](https://bom-editions.vercel.app/en/1830/3-nephi/9#8)
+- galilee (1) - [2 Nephi 19:1](https://bom-editions.vercel.app/en/1830/2-nephi/19#1)
+- gallim (1) - [2 Nephi 20:30](https://bom-editions.vercel.app/en/1830/2-nephi/20#30)
+- geba (1) - [2 Nephi 20:29](https://bom-editions.vercel.app/en/1830/2-nephi/20#29)
+- gebim (1) - [2 Nephi 20:31](https://bom-editions.vercel.app/en/1830/2-nephi/20#31)
+- gibeah (1) - [2 Nephi 20:29](https://bom-editions.vercel.app/en/1830/2-nephi/20#29)
+- gid (17) - [Alma 51:26](https://bom-editions.vercel.app/en/1830/alma/51#26), [Alma 55:7](https://bom-editions.vercel.app/en/1830/alma/55#7), + 15 more
+- giddianhi (12) - [3 Nephi 3:9](https://bom-editions.vercel.app/en/1830/3-nephi/3#9), [3 Nephi 3:10](https://bom-editions.vercel.app/en/1830/3-nephi/3#10), + 10 more
+- giddonah (2) - [Alma 10:2](https://bom-editions.vercel.app/en/1830/alma/10#2), [Alma 30:23](https://bom-editions.vercel.app/en/1830/alma/30#23)
+- gideon (36) - [Mosiah 19:4](https://bom-editions.vercel.app/en/1830/mosiah/19#4), [Mosiah 19:6](https://bom-editions.vercel.app/en/1830/mosiah/19#6), + 34 more
+- gidgiddonah (1) - [Mormon 6:13](https://bom-editions.vercel.app/en/1830/mormon/6#13)
+- gidgiddoni (10) - [3 Nephi 3:18](https://bom-editions.vercel.app/en/1830/3-nephi/3#18), [3 Nephi 3:19](https://bom-editions.vercel.app/en/1830/3-nephi/3#19), + 8 more
+- gilead (1) - [Ether 14:8](https://bom-editions.vercel.app/en/1830/ether/14#8)
+- gilgah (1) - [Ether 6:14](https://bom-editions.vercel.app/en/1830/ether/6#14)
+- gilgal (5) - [3 Nephi 9:6](https://bom-editions.vercel.app/en/1830/3-nephi/9#6), [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14), + 3 more
+- gimgimno (1) - [3 Nephi 9:8](https://bom-editions.vercel.app/en/1830/3-nephi/9#8)
+- gomorrah (1) - [2 Nephi 23:19](https://bom-editions.vercel.app/en/1830/2-nephi/23#19)
+- hagoth (1) - [Alma 63:5](https://bom-editions.vercel.app/en/1830/alma/63#5)
+- hamath (2) - [2 Nephi 20:9](https://bom-editions.vercel.app/en/1830/2-nephi/20#9), [2 Nephi 21:11](https://bom-editions.vercel.app/en/1830/2-nephi/21#11)
+- hearthom (5) - [Ether 1:16](https://bom-editions.vercel.app/en/1830/ether/1#16), [Ether 1:17](https://bom-editions.vercel.app/en/1830/ether/1#17), + 3 more
+- helam (16) - [Mosiah 18:12](https://bom-editions.vercel.app/en/1830/mosiah/18#12), [Mosiah 18:13](https://bom-editions.vercel.app/en/1830/mosiah/18#13), + 14 more
+- helaman (72) - [Mosiah 1:2](https://bom-editions.vercel.app/en/1830/mosiah/1#2), [Alma 31:7](https://bom-editions.vercel.app/en/1830/alma/31#7), + 70 more
+- helamans (1) - [Alma 59:1](https://bom-editions.vercel.app/en/1830/alma/59#1)
+- helem (1) - [Mosiah 7:6](https://bom-editions.vercel.app/en/1830/mosiah/7#6)
+- helorum (1) - [Mosiah 1:2](https://bom-editions.vercel.app/en/1830/mosiah/1#2)
+- hermounts (1) - [Alma 2:37](https://bom-editions.vercel.app/en/1830/alma/2#37)
+- heshlon (1) - [Ether 13:28](https://bom-editions.vercel.app/en/1830/ether/13#28)
+- heth (12) - [Ether 1:16](https://bom-editions.vercel.app/en/1830/ether/1#16), [Ether 1:25](https://bom-editions.vercel.app/en/1830/ether/1#25), + 10 more
+- himni (6) - [Mosiah 27:34](https://bom-editions.vercel.app/en/1830/mosiah/27#34), [Alma 22:35](https://bom-editions.vercel.app/en/1830/alma/22#35), + 4 more
+- horeb (1) - [3 Nephi 25:4](https://bom-editions.vercel.app/en/1830/3-nephi/25#4)
+- immanuel (2) - [2 Nephi 17:14](https://bom-editions.vercel.app/en/1830/2-nephi/17#14), [2 Nephi 18:8](https://bom-editions.vercel.app/en/1830/2-nephi/18#8)
+- isaac (13) - [1 Nephi 6:4](https://bom-editions.vercel.app/en/1830/1-nephi/6#4), [1 Nephi 17:40](https://bom-editions.vercel.app/en/1830/1-nephi/17#40), + 11 more
+- isaiah (24) - [1 Nephi 15:20](https://bom-editions.vercel.app/en/1830/1-nephi/15#20), [1 Nephi 19:23](https://bom-editions.vercel.app/en/1830/1-nephi/19#23), + 22 more
+- ishmael (42) - [1 Nephi 7:2](https://bom-editions.vercel.app/en/1830/1-nephi/7#2), [1 Nephi 7:4](https://bom-editions.vercel.app/en/1830/1-nephi/7#4), + 40 more
+- ishmaelites (5) - [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), [Alma 47:35](https://bom-editions.vercel.app/en/1830/alma/47#35), + 3 more
+- ishmaelitish (1) - [Alma 3:7](https://bom-editions.vercel.app/en/1830/alma/3#7)
+- israel (211) - [1 Nephi 5:9](https://bom-editions.vercel.app/en/1830/1-nephi/5#9), [1 Nephi 5:10](https://bom-editions.vercel.app/en/1830/1-nephi/5#10), + 209 more
+- israelites (1) - [Helaman 8:11](https://bom-editions.vercel.app/en/1830/helaman/8#11)
+- jacob (99) - [1 Nephi 5:14](https://bom-editions.vercel.app/en/1830/1-nephi/5#14), [1 Nephi 5:14](https://bom-editions.vercel.app/en/1830/1-nephi/5#14), + 97 more
+- jacobites (4) - [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), [4 Nephi 1:36](https://bom-editions.vercel.app/en/1830/4-nephi/1#36), + 2 more
+- jacobugath (1) - [3 Nephi 9:9](https://bom-editions.vercel.app/en/1830/3-nephi/9#9)
+- jacom (1) - [Ether 6:14](https://bom-editions.vercel.app/en/1830/ether/6#14)
+- jared (87) - [Ether 1:32](https://bom-editions.vercel.app/en/1830/ether/1#32), [Ether 1:33](https://bom-editions.vercel.app/en/1830/ether/1#33), + 85 more
+- jaredites (1) - [Moroni 9:23](https://bom-editions.vercel.app/en/1830/moroni/9#23)
+- jarom (3) - [Jarom 1:1](https://bom-editions.vercel.app/en/1830/jarom/1#1), [Jarom 1:14](https://bom-editions.vercel.app/en/1830/jarom/1#14), + 1 more
+- jashon (2) - [Mormon 2:16](https://bom-editions.vercel.app/en/1830/mormon/2#16), [Mormon 2:17](https://bom-editions.vercel.app/en/1830/mormon/2#17)
+- jeberechiah (1) - [2 Nephi 18:2](https://bom-editions.vercel.app/en/1830/2-nephi/18#2)
+- jeremiah (6) - [1 Nephi 5:13](https://bom-editions.vercel.app/en/1830/1-nephi/5#13), [1 Nephi 7:14](https://bom-editions.vercel.app/en/1830/1-nephi/7#14), + 4 more
+- jershon (26) - [Alma 27:22](https://bom-editions.vercel.app/en/1830/alma/27#22), [Alma 27:22](https://bom-editions.vercel.app/en/1830/alma/27#22), + 24 more
+- jerusalem (161) - [1 Nephi 1:4](https://bom-editions.vercel.app/en/1830/1-nephi/1#4), [1 Nephi 1:4](https://bom-editions.vercel.app/en/1830/1-nephi/1#4), + 159 more
+- jesus (185) - [1 Nephi 12:18](https://bom-editions.vercel.app/en/1830/1-nephi/12#18), [2 Nephi 25:19](https://bom-editions.vercel.app/en/1830/2-nephi/25#19), + 183 more
+- john (3) - [1 Nephi 14:27](https://bom-editions.vercel.app/en/1830/1-nephi/14#27), [3 Nephi 28:6](https://bom-editions.vercel.app/en/1830/3-nephi/28#6), + 1 more
+- jonas (2) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4), [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- joneam (1) - [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14)
+- jordan (4) - [1 Nephi 10:9](https://bom-editions.vercel.app/en/1830/1-nephi/10#9), [1 Nephi 17:32](https://bom-editions.vercel.app/en/1830/1-nephi/17#32), + 2 more
+- joseph (43) - [1 Nephi 5:14](https://bom-editions.vercel.app/en/1830/1-nephi/5#14), [1 Nephi 5:14](https://bom-editions.vercel.app/en/1830/1-nephi/5#14), + 41 more
+- josephites (4) - [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), [4 Nephi 1:36](https://bom-editions.vercel.app/en/1830/4-nephi/1#36), + 2 more
+- josh (2) - [3 Nephi 9:10](https://bom-editions.vercel.app/en/1830/3-nephi/9#10), [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14)
+- joshua (1) - [Mormon 2:6](https://bom-editions.vercel.app/en/1830/mormon/2#6)
+- jotham (1) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1)
+- judah (21) - [1 Nephi 1:4](https://bom-editions.vercel.app/en/1830/1-nephi/1#4), [1 Nephi 5:12](https://bom-editions.vercel.app/en/1830/1-nephi/5#12), + 19 more
+- judea (5) - [Alma 56:9](https://bom-editions.vercel.app/en/1830/alma/56#9), [Alma 56:15](https://bom-editions.vercel.app/en/1830/alma/56#15), + 3 more
+- kib (8) - [Ether 1:31](https://bom-editions.vercel.app/en/1830/ether/1#31), [Ether 1:32](https://bom-editions.vercel.app/en/1830/ether/1#32), + 6 more
+- kim (5) - [Ether 1:21](https://bom-editions.vercel.app/en/1830/ether/1#21), [Ether 1:22](https://bom-editions.vercel.app/en/1830/ether/1#22), + 3 more
+- kimnor (1) - [Ether 8:10](https://bom-editions.vercel.app/en/1830/ether/8#10)
+- kish (4) - [Ether 1:18](https://bom-editions.vercel.app/en/1830/ether/1#18), [Ether 1:19](https://bom-editions.vercel.app/en/1830/ether/1#19), + 2 more
+- kishkumen (19) - [Helaman 1:9](https://bom-editions.vercel.app/en/1830/helaman/1#9), [Helaman 1:10](https://bom-editions.vercel.app/en/1830/helaman/1#10), + 17 more
+- korihor (15) - [Alma 30:12](https://bom-editions.vercel.app/en/1830/alma/30#12), [Alma 30:23](https://bom-editions.vercel.app/en/1830/alma/30#23), + 13 more
+- kumen (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- kumenonhi (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- laban (45) - [1 Nephi 3:3](https://bom-editions.vercel.app/en/1830/1-nephi/3#3), [1 Nephi 3:4](https://bom-editions.vercel.app/en/1830/1-nephi/3#4), + 43 more
+- lachoneus (17) - [3 Nephi 1:1](https://bom-editions.vercel.app/en/1830/3-nephi/1#1), [3 Nephi 3:1](https://bom-editions.vercel.app/en/1830/3-nephi/3#1), + 15 more
+- laish (1) - [2 Nephi 20:30](https://bom-editions.vercel.app/en/1830/2-nephi/20#30)
+- lamah (1) - [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14)
+- laman (53) - [1 Nephi 2:5](https://bom-editions.vercel.app/en/1830/1-nephi/2#5), [1 Nephi 2:8](https://bom-editions.vercel.app/en/1830/1-nephi/2#8), + 51 more
+- lamanite (14) - [Alma 54:2](https://bom-editions.vercel.app/en/1830/alma/54#2), [Alma 54:24](https://bom-editions.vercel.app/en/1830/alma/54#24), + 12 more
+- lamanites (691) - [2 Nephi 5:14](https://bom-editions.vercel.app/en/1830/2-nephi/5#14), [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), + 689 more
+- lamanitish (2) - [Alma 17:26](https://bom-editions.vercel.app/en/1830/alma/17#26), [Alma 19:16](https://bom-editions.vercel.app/en/1830/alma/19#16)
+- lamoni (47) - [Alma 17:21](https://bom-editions.vercel.app/en/1830/alma/17#21), [Alma 17:24](https://bom-editions.vercel.app/en/1830/alma/17#24), + 45 more
+- leah (1) - [Alma 11:17](https://bom-editions.vercel.app/en/1830/alma/11#17)
+- lebanon (4) - [2 Nephi 12:13](https://bom-editions.vercel.app/en/1830/2-nephi/12#13), [2 Nephi 20:34](https://bom-editions.vercel.app/en/1830/2-nephi/20#34), + 2 more
+- lehi (107) - [1 Nephi 1:4](https://bom-editions.vercel.app/en/1830/1-nephi/1#4), [1 Nephi 1:5](https://bom-editions.vercel.app/en/1830/1-nephi/1#5), + 105 more
+- lehi-nephi (7) - [Mosiah 7:1](https://bom-editions.vercel.app/en/1830/mosiah/7#1), [Mosiah 7:1](https://bom-editions.vercel.app/en/1830/mosiah/7#1), + 5 more
+- lehonti (10) - [Alma 47:10](https://bom-editions.vercel.app/en/1830/alma/47#10), [Alma 47:11](https://bom-editions.vercel.app/en/1830/alma/47#11), + 8 more
+- lehontis (2) - [Alma 47:12](https://bom-editions.vercel.app/en/1830/alma/47#12), [Alma 47:13](https://bom-editions.vercel.app/en/1830/alma/47#13)
+- lemuel (30) - [1 Nephi 2:5](https://bom-editions.vercel.app/en/1830/1-nephi/2#5), [1 Nephi 2:10](https://bom-editions.vercel.app/en/1830/1-nephi/2#10), + 28 more
+- lemuelites (5) - [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), [Alma 47:35](https://bom-editions.vercel.app/en/1830/alma/47#35), + 3 more
+- levi (5) - [3 Nephi 24:3](https://bom-editions.vercel.app/en/1830/3-nephi/24#3), [Ether 1:20](https://bom-editions.vercel.app/en/1830/ether/1#20), + 3 more
+- limhah (1) - [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14)
+- limher (1) - [Alma 2:22](https://bom-editions.vercel.app/en/1830/alma/2#22)
+- limhi (55) - [Mosiah 7:9](https://bom-editions.vercel.app/en/1830/mosiah/7#9), [Mosiah 7:14](https://bom-editions.vercel.app/en/1830/mosiah/7#14), + 53 more
+- luram (1) - [Moroni 9:2](https://bom-editions.vercel.app/en/1830/moroni/9#2)
+- madmenah (1) - [2 Nephi 20:31](https://bom-editions.vercel.app/en/1830/2-nephi/20#31)
+- mahah (1) - [Ether 6:14](https://bom-editions.vercel.app/en/1830/ether/6#14)
+- maher-shalal-hash-baz (2) - [2 Nephi 18:1](https://bom-editions.vercel.app/en/1830/2-nephi/18#1), [2 Nephi 18:3](https://bom-editions.vercel.app/en/1830/2-nephi/18#3)
+- malachi (2) - [3 Nephi 24:1](https://bom-editions.vercel.app/en/1830/3-nephi/24#1), [3 Nephi 24:1](https://bom-editions.vercel.app/en/1830/3-nephi/24#1)
+- manasseh (3) - [2 Nephi 19:21](https://bom-editions.vercel.app/en/1830/2-nephi/19#21), [2 Nephi 19:21](https://bom-editions.vercel.app/en/1830/2-nephi/19#21), + 1 more
+- manti (22) - [Alma 1:15](https://bom-editions.vercel.app/en/1830/alma/1#15), [Alma 2:22](https://bom-editions.vercel.app/en/1830/alma/2#22), + 20 more
+- mary (2) - [Mosiah 3:8](https://bom-editions.vercel.app/en/1830/mosiah/3#8), [Alma 7:10](https://bom-editions.vercel.app/en/1830/alma/7#10)
+- mathoni (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- mathonihah (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- medes (1) - [2 Nephi 23:17](https://bom-editions.vercel.app/en/1830/2-nephi/23#17)
+- melchizedek (5) - [Alma 13:14](https://bom-editions.vercel.app/en/1830/alma/13#14), [Alma 13:15](https://bom-editions.vercel.app/en/1830/alma/13#15), + 3 more
+- melek (8) - [Alma 8:3](https://bom-editions.vercel.app/en/1830/alma/8#3), [Alma 8:4](https://bom-editions.vercel.app/en/1830/alma/8#4), + 6 more
+- michmash (1) - [2 Nephi 20:28](https://bom-editions.vercel.app/en/1830/2-nephi/20#28)
+- middoni (17) - [Alma 20:2](https://bom-editions.vercel.app/en/1830/alma/20#2), [Alma 20:3](https://bom-editions.vercel.app/en/1830/alma/20#3), + 15 more
+- midian (2) - [2 Nephi 20:26](https://bom-editions.vercel.app/en/1830/2-nephi/20#26), [Alma 24:5](https://bom-editions.vercel.app/en/1830/alma/24#5)
+- migron (1) - [2 Nephi 20:28](https://bom-editions.vercel.app/en/1830/2-nephi/20#28)
+- minon (1) - [Alma 2:24](https://bom-editions.vercel.app/en/1830/alma/2#24)
+- moab (1) - [2 Nephi 21:14](https://bom-editions.vercel.app/en/1830/2-nephi/21#14)
+- mocum (1) - [3 Nephi 9:7](https://bom-editions.vercel.app/en/1830/3-nephi/9#7)
+- moriancumer (1) - [Ether 2:13](https://bom-editions.vercel.app/en/1830/ether/2#13)
+- morianton (24) - [Alma 50:25](https://bom-editions.vercel.app/en/1830/alma/50#25), [Alma 50:26](https://bom-editions.vercel.app/en/1830/alma/50#26), + 22 more
+- moriantum (1) - [Moroni 9:9](https://bom-editions.vercel.app/en/1830/moroni/9#9)
+- morionton (1) - [Alma 55:33](https://bom-editions.vercel.app/en/1830/alma/55#33)
+- mormon (43) - [Words of Mormon 1:1](https://bom-editions.vercel.app/en/1830/words-of-mormon/1#1), [Words of Mormon 1:9](https://bom-editions.vercel.app/en/1830/words-of-mormon/1#9), + 41 more
+- moron (14) - [Ether 1:7](https://bom-editions.vercel.app/en/1830/ether/1#7), [Ether 1:8](https://bom-editions.vercel.app/en/1830/ether/1#8), + 12 more
+- moroni (215) - [Words of Mormon 1:1](https://bom-editions.vercel.app/en/1830/words-of-mormon/1#1), [Alma 43:16](https://bom-editions.vercel.app/en/1830/alma/43#16), + 213 more
+- moronihah (20) - [Alma 62:43](https://bom-editions.vercel.app/en/1830/alma/62#43), [Alma 63:15](https://bom-editions.vercel.app/en/1830/alma/63#15), + 18 more
+- moronis (1) - [Alma 44:12](https://bom-editions.vercel.app/en/1830/alma/44#12)
+- moses (75) - [1 Nephi 4:2](https://bom-editions.vercel.app/en/1830/1-nephi/4#2), [1 Nephi 4:15](https://bom-editions.vercel.app/en/1830/1-nephi/4#15), + 73 more
+- mosiah (78) - [Omni 1:12](https://bom-editions.vercel.app/en/1830/omni/1#12), [Omni 1:14](https://bom-editions.vercel.app/en/1830/omni/1#14), + 76 more
+- mulek (16) - [Alma 51:26](https://bom-editions.vercel.app/en/1830/alma/51#26), [Alma 52:2](https://bom-editions.vercel.app/en/1830/alma/52#2), + 14 more
+- mulok (1) - [Mosiah 25:2](https://bom-editions.vercel.app/en/1830/mosiah/25#2)
+- muloki (2) - [Alma 20:2](https://bom-editions.vercel.app/en/1830/alma/20#2), [Alma 21:11](https://bom-editions.vercel.app/en/1830/alma/21#11)
+- nahom (1) - [1 Nephi 16:34](https://bom-editions.vercel.app/en/1830/1-nephi/16#34)
+- naphtali (1) - [2 Nephi 19:1](https://bom-editions.vercel.app/en/1830/2-nephi/19#1)
+- nazareth (2) - [1 Nephi 11:13](https://bom-editions.vercel.app/en/1830/1-nephi/11#13), [1 Nephi 11:13](https://bom-editions.vercel.app/en/1830/1-nephi/11#13)
+- nehor (10) - [Alma 1:15](https://bom-editions.vercel.app/en/1830/alma/1#15), [Alma 2:20](https://bom-editions.vercel.app/en/1830/alma/2#20), + 8 more
+- nehors (4) - [Alma 16:11](https://bom-editions.vercel.app/en/1830/alma/16#11), [Alma 21:4](https://bom-editions.vercel.app/en/1830/alma/21#4), + 2 more
+- nephi (450) - [1 Nephi 1:1](https://bom-editions.vercel.app/en/1830/1-nephi/1#1), [1 Nephi 1:16](https://bom-editions.vercel.app/en/1830/1-nephi/1#16), + 448 more
+- nephihah (24) - [Alma 4:17](https://bom-editions.vercel.app/en/1830/alma/4#17), [Alma 4:18](https://bom-editions.vercel.app/en/1830/alma/4#18), + 22 more
+- nephite (10) - [Alma 8:20](https://bom-editions.vercel.app/en/1830/alma/8#20), [Alma 19:18](https://bom-editions.vercel.app/en/1830/alma/19#18), + 8 more
+- nephites (369) - [2 Nephi 29:12](https://bom-editions.vercel.app/en/1830/2-nephi/29#12), [2 Nephi 29:13](https://bom-editions.vercel.app/en/1830/2-nephi/29#13), + 367 more
+- neum (1) - [1 Nephi 19:10](https://bom-editions.vercel.app/en/1830/1-nephi/19#10)
+- nimrah (2) - [Ether 9:8](https://bom-editions.vercel.app/en/1830/ether/9#8), [Ether 9:9](https://bom-editions.vercel.app/en/1830/ether/9#9)
+- nimrod (4) - [Ether 2:1](https://bom-editions.vercel.app/en/1830/ether/2#1), [Ether 2:4](https://bom-editions.vercel.app/en/1830/ether/2#4), + 2 more
+- noah (46) - [Mosiah 7:9](https://bom-editions.vercel.app/en/1830/mosiah/7#9), [Mosiah 11:1](https://bom-editions.vercel.app/en/1830/mosiah/11#1), + 44 more
+- nob (1) - [2 Nephi 20:32](https://bom-editions.vercel.app/en/1830/2-nephi/20#32)
+- ogath (1) - [Ether 15:10](https://bom-editions.vercel.app/en/1830/ether/15#10)
+- omner (8) - [Mosiah 27:34](https://bom-editions.vercel.app/en/1830/mosiah/27#34), [Alma 22:35](https://bom-editions.vercel.app/en/1830/alma/22#35), + 6 more
+- omni (2) - [Jarom 1:15](https://bom-editions.vercel.app/en/1830/jarom/1#15), [Omni 1:1](https://bom-editions.vercel.app/en/1830/omni/1#1)
+- onidah (3) - [Alma 32:4](https://bom-editions.vercel.app/en/1830/alma/32#4), [Alma 47:5](https://bom-editions.vercel.app/en/1830/alma/47#5), + 1 more
+- onihah (1) - [3 Nephi 9:7](https://bom-editions.vercel.app/en/1830/3-nephi/9#7)
+- ophir (1) - [2 Nephi 23:12](https://bom-editions.vercel.app/en/1830/2-nephi/23#12)
+- oreb (1) - [2 Nephi 20:26](https://bom-editions.vercel.app/en/1830/2-nephi/20#26)
+- orihah (5) - [Ether 1:32](https://bom-editions.vercel.app/en/1830/ether/1#32), [Ether 6:14](https://bom-editions.vercel.app/en/1830/ether/6#14), + 3 more
+- paanchi (2) - [Helaman 1:3](https://bom-editions.vercel.app/en/1830/helaman/1#3), [Helaman 1:7](https://bom-editions.vercel.app/en/1830/helaman/1#7)
+- pachus (5) - [Alma 62:6](https://bom-editions.vercel.app/en/1830/alma/62#6), [Alma 62:7](https://bom-editions.vercel.app/en/1830/alma/62#7), + 3 more
+- pacumeni (5) - [Helaman 1:3](https://bom-editions.vercel.app/en/1830/helaman/1#3), [Helaman 1:6](https://bom-editions.vercel.app/en/1830/helaman/1#6), + 3 more
+- pagag (2) - [Ether 6:25](https://bom-editions.vercel.app/en/1830/ether/6#25), [Ether 6:26](https://bom-editions.vercel.app/en/1830/ether/6#26)
+- paharon (3) - [Alma 62:1](https://bom-editions.vercel.app/en/1830/alma/62#1), [Alma 62:2](https://bom-editions.vercel.app/en/1830/alma/62#2), + 1 more
+- pahoran (34) - [Alma 50:40](https://bom-editions.vercel.app/en/1830/alma/50#40), [Alma 50:40](https://bom-editions.vercel.app/en/1830/alma/50#40), + 32 more
+- palestina (2) - [2 Nephi 24:29](https://bom-editions.vercel.app/en/1830/2-nephi/24#29), [2 Nephi 24:31](https://bom-editions.vercel.app/en/1830/2-nephi/24#31)
+- pathros (1) - [2 Nephi 21:11](https://bom-editions.vercel.app/en/1830/2-nephi/21#11)
+- pekah (1) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1)
+- pharaoh (2) - [1 Nephi 4:2](https://bom-editions.vercel.app/en/1830/1-nephi/4#2), [1 Nephi 17:27](https://bom-editions.vercel.app/en/1830/1-nephi/17#27)
+- philistines (3) - [2 Nephi 12:6](https://bom-editions.vercel.app/en/1830/2-nephi/12#6), [2 Nephi 19:12](https://bom-editions.vercel.app/en/1830/2-nephi/19#12), + 1 more
+- rahab (1) - [2 Nephi 8:9](https://bom-editions.vercel.app/en/1830/2-nephi/8#9)
+- ramah (1) - [Ether 15:11](https://bom-editions.vercel.app/en/1830/ether/15#11)
+- ramath (1) - [2 Nephi 20:29](https://bom-editions.vercel.app/en/1830/2-nephi/20#29)
+- remaliah (3) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1), [2 Nephi 17:4](https://bom-editions.vercel.app/en/1830/2-nephi/17#4), + 1 more
+- remaliahs (2) - [2 Nephi 17:9](https://bom-editions.vercel.app/en/1830/2-nephi/17#9), [2 Nephi 18:6](https://bom-editions.vercel.app/en/1830/2-nephi/18#6)
+- rezin (5) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1), [2 Nephi 17:4](https://bom-editions.vercel.app/en/1830/2-nephi/17#4), + 3 more
+- riplah (2) - [Alma 43:31](https://bom-editions.vercel.app/en/1830/alma/43#31), [Alma 43:35](https://bom-editions.vercel.app/en/1830/alma/43#35)
+- riplakish (7) - [Ether 1:23](https://bom-editions.vercel.app/en/1830/ether/1#23), [Ether 1:24](https://bom-editions.vercel.app/en/1830/ether/1#24), + 5 more
+- ripliancum (1) - [Ether 15:8](https://bom-editions.vercel.app/en/1830/ether/15#8)
+- salem (2) - [Alma 13:17](https://bom-editions.vercel.app/en/1830/alma/13#17), [Alma 13:18](https://bom-editions.vercel.app/en/1830/alma/13#18)
+- sam (10) - [1 Nephi 2:5](https://bom-editions.vercel.app/en/1830/1-nephi/2#5), [1 Nephi 2:17](https://bom-editions.vercel.app/en/1830/1-nephi/2#17), + 8 more
+- samaria (7) - [2 Nephi 17:9](https://bom-editions.vercel.app/en/1830/2-nephi/17#9), [2 Nephi 17:9](https://bom-editions.vercel.app/en/1830/2-nephi/17#9), + 5 more
+- samuel (16) - [Helaman 13:2](https://bom-editions.vercel.app/en/1830/helaman/13#2), [Helaman 13:5](https://bom-editions.vercel.app/en/1830/helaman/13#5), + 14 more
+- sarah (1) - [2 Nephi 8:2](https://bom-editions.vercel.app/en/1830/2-nephi/8#2)
+- sariah (4) - [1 Nephi 2:5](https://bom-editions.vercel.app/en/1830/1-nephi/2#5), [1 Nephi 5:1](https://bom-editions.vercel.app/en/1830/1-nephi/5#1), + 2 more
+- seantum (1) - [Helaman 9:26](https://bom-editions.vercel.app/en/1830/helaman/9#26)
+- sebus (6) - [Alma 17:26](https://bom-editions.vercel.app/en/1830/alma/17#26), [Alma 17:34](https://bom-editions.vercel.app/en/1830/alma/17#34), + 4 more
+- seezoram (3) - [Helaman 9:23](https://bom-editions.vercel.app/en/1830/helaman/9#23), [Helaman 9:26](https://bom-editions.vercel.app/en/1830/helaman/9#26), + 1 more
+- seth (3) - [Ether 1:10](https://bom-editions.vercel.app/en/1830/ether/1#10), [Ether 1:11](https://bom-editions.vercel.app/en/1830/ether/1#11), + 1 more
+- shazer (2) - [1 Nephi 16:13](https://bom-editions.vercel.app/en/1830/1-nephi/16#13), [1 Nephi 16:14](https://bom-editions.vercel.app/en/1830/1-nephi/16#14)
+- shearjashub (1) - [2 Nephi 17:3](https://bom-editions.vercel.app/en/1830/2-nephi/17#3)
+- shelem (1) - [Ether 3:1](https://bom-editions.vercel.app/en/1830/ether/3#1)
+- shem (3) - [Mormon 2:20](https://bom-editions.vercel.app/en/1830/mormon/2#20), [Mormon 2:21](https://bom-editions.vercel.app/en/1830/mormon/2#21), + 1 more
+- shemlon (6) - [Mosiah 10:7](https://bom-editions.vercel.app/en/1830/mosiah/10#7), [Mosiah 11:12](https://bom-editions.vercel.app/en/1830/mosiah/11#12), + 4 more
+- shemnon (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- sherem (3) - [Jacob 7:1](https://bom-editions.vercel.app/en/1830/jacob/7#1), [Jacob 7:7](https://bom-editions.vercel.app/en/1830/jacob/7#7), + 1 more
+- sherrizah (3) - [Moroni 9:7](https://bom-editions.vercel.app/en/1830/moroni/9#7), [Moroni 9:16](https://bom-editions.vercel.app/en/1830/moroni/9#16), + 1 more
+- shez (9) - [Ether 1:24](https://bom-editions.vercel.app/en/1830/ether/1#24), [Ether 1:25](https://bom-editions.vercel.app/en/1830/ether/1#25), + 7 more
+- shiblom (7) - [Mormon 6:14](https://bom-editions.vercel.app/en/1830/mormon/6#14), [Ether 11:4](https://bom-editions.vercel.app/en/1830/ether/11#4), + 5 more
+- shiloah (1) - [2 Nephi 18:6](https://bom-editions.vercel.app/en/1830/2-nephi/18#6)
+- shilom (15) - [Mosiah 7:5](https://bom-editions.vercel.app/en/1830/mosiah/7#5), [Mosiah 7:7](https://bom-editions.vercel.app/en/1830/mosiah/7#7), + 13 more
+- shim (3) - [Mormon 1:3](https://bom-editions.vercel.app/en/1830/mormon/1#3), [Mormon 4:23](https://bom-editions.vercel.app/en/1830/mormon/4#23), + 1 more
+- shimnilom (1) - [Alma 23:12](https://bom-editions.vercel.app/en/1830/alma/23#12)
+- shinar (1) - [2 Nephi 21:11](https://bom-editions.vercel.app/en/1830/2-nephi/21#11)
+- shiz (31) - [Ether 14:17](https://bom-editions.vercel.app/en/1830/ether/14#17), [Ether 14:17](https://bom-editions.vercel.app/en/1830/ether/14#17), + 29 more
+- shule (26) - [Ether 1:30](https://bom-editions.vercel.app/en/1830/ether/1#30), [Ether 1:31](https://bom-editions.vercel.app/en/1830/ether/1#31), + 24 more
+- shurr (2) - [Ether 14:28](https://bom-editions.vercel.app/en/1830/ether/14#28), [Ether 14:28](https://bom-editions.vercel.app/en/1830/ether/14#28)
+- sidom (8) - [Alma 2:17](https://bom-editions.vercel.app/en/1830/alma/2#17), [Alma 15:1](https://bom-editions.vercel.app/en/1830/alma/15#1), + 6 more
+- sidon (36) - [Alma 2:15](https://bom-editions.vercel.app/en/1830/alma/2#15), [Alma 2:27](https://bom-editions.vercel.app/en/1830/alma/2#27), + 34 more
+- sinai (2) - [Mosiah 12:33](https://bom-editions.vercel.app/en/1830/mosiah/12#33), [Mosiah 13:5](https://bom-editions.vercel.app/en/1830/mosiah/13#5)
+- sinim (1) - [1 Nephi 21:12](https://bom-editions.vercel.app/en/1830/1-nephi/21#12)
+- siron (1) - [Alma 39:3](https://bom-editions.vercel.app/en/1830/alma/39#3)
+- sodom (2) - [2 Nephi 13:9](https://bom-editions.vercel.app/en/1830/2-nephi/13#9), [2 Nephi 23:19](https://bom-editions.vercel.app/en/1830/2-nephi/23#19)
+- solomon (6) - [2 Nephi 5:16](https://bom-editions.vercel.app/en/1830/2-nephi/5#16), [2 Nephi 5:16](https://bom-editions.vercel.app/en/1830/2-nephi/5#16), + 4 more
+- solomons (1) - [2 Nephi 5:16](https://bom-editions.vercel.app/en/1830/2-nephi/5#16)
+- syria (5) - [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1), [2 Nephi 17:2](https://bom-editions.vercel.app/en/1830/2-nephi/17#2), + 3 more
+- syrians (1) - [2 Nephi 19:12](https://bom-editions.vercel.app/en/1830/2-nephi/19#12)
+- tabeal (1) - [2 Nephi 17:6](https://bom-editions.vercel.app/en/1830/2-nephi/17#6)
+- tarshish (1) - [2 Nephi 12:16](https://bom-editions.vercel.app/en/1830/2-nephi/12#16)
+- teancum (43) - [Alma 50:35](https://bom-editions.vercel.app/en/1830/alma/50#35), [Alma 50:35](https://bom-editions.vercel.app/en/1830/alma/50#35), + 41 more
+- teomner (4) - [Alma 58:16](https://bom-editions.vercel.app/en/1830/alma/58#16), [Alma 58:19](https://bom-editions.vercel.app/en/1830/alma/58#19), + 2 more
+- timothy (1) - [3 Nephi 19:4](https://bom-editions.vercel.app/en/1830/3-nephi/19#4)
+- tubaloth (2) - [Helaman 1:16](https://bom-editions.vercel.app/en/1830/helaman/1#16), [Helaman 1:16](https://bom-editions.vercel.app/en/1830/helaman/1#16)
+- uriah (1) - [2 Nephi 18:2](https://bom-editions.vercel.app/en/1830/2-nephi/18#2)
+- uzziah (2) - [2 Nephi 16:1](https://bom-editions.vercel.app/en/1830/2-nephi/16#1), [2 Nephi 17:1](https://bom-editions.vercel.app/en/1830/2-nephi/17#1)
+- zarahemla (148) - [Omni 1:12](https://bom-editions.vercel.app/en/1830/omni/1#12), [Omni 1:13](https://bom-editions.vercel.app/en/1830/omni/1#13), + 146 more
+- zebulun (1) - [2 Nephi 19:1](https://bom-editions.vercel.app/en/1830/2-nephi/19#1)
+- zechariah (1) - [2 Nephi 18:2](https://bom-editions.vercel.app/en/1830/2-nephi/18#2)
+- zedekiah (8) - [1 Nephi 1:4](https://bom-editions.vercel.app/en/1830/1-nephi/1#4), [1 Nephi 5:12](https://bom-editions.vercel.app/en/1830/1-nephi/5#12), + 6 more
+- zeezrom (28) - [Alma 10:31](https://bom-editions.vercel.app/en/1830/alma/10#31), [Alma 11:21](https://bom-editions.vercel.app/en/1830/alma/11#21), + 26 more
+- zemnarihah (5) - [3 Nephi 4:17](https://bom-editions.vercel.app/en/1830/3-nephi/4#17), [3 Nephi 4:17](https://bom-editions.vercel.app/en/1830/3-nephi/4#17), + 3 more
+- zenas (1) - [Helaman 8:19](https://bom-editions.vercel.app/en/1830/helaman/8#19)
+- zenephi (1) - [Moroni 9:16](https://bom-editions.vercel.app/en/1830/moroni/9#16)
+- zeniff (10) - [Mosiah 7:9](https://bom-editions.vercel.app/en/1830/mosiah/7#9), [Mosiah 7:13](https://bom-editions.vercel.app/en/1830/mosiah/7#13), + 8 more
+- zenoch (1) - [Helaman 8:20](https://bom-editions.vercel.app/en/1830/helaman/8#20)
+- zenock (4) - [1 Nephi 19:10](https://bom-editions.vercel.app/en/1830/1-nephi/19#10), [Alma 33:15](https://bom-editions.vercel.app/en/1830/alma/33#15), + 2 more
+- zenos (11) - [1 Nephi 19:10](https://bom-editions.vercel.app/en/1830/1-nephi/19#10), [1 Nephi 19:12](https://bom-editions.vercel.app/en/1830/1-nephi/19#12), + 9 more
+- zerahemnah (17) - [Alma 43:5](https://bom-editions.vercel.app/en/1830/alma/43#5), [Alma 43:6](https://bom-editions.vercel.app/en/1830/alma/43#6), + 15 more
+- zeram (1) - [Alma 2:22](https://bom-editions.vercel.app/en/1830/alma/2#22)
+- zerin (1) - [Ether 12:30](https://bom-editions.vercel.app/en/1830/ether/12#30)
+- zion (45) - [1 Nephi 13:37](https://bom-editions.vercel.app/en/1830/1-nephi/13#37), [1 Nephi 21:14](https://bom-editions.vercel.app/en/1830/1-nephi/21#14), + 43 more
+- zoram (12) - [1 Nephi 4:35](https://bom-editions.vercel.app/en/1830/1-nephi/4#35), [1 Nephi 4:35](https://bom-editions.vercel.app/en/1830/1-nephi/4#35), + 10 more
+- zoramite (2) - [Alma 52:20](https://bom-editions.vercel.app/en/1830/alma/52#20), [Alma 52:33](https://bom-editions.vercel.app/en/1830/alma/52#33)
+- zoramites (33) - [Jacob 1:13](https://bom-editions.vercel.app/en/1830/jacob/1#13), [Alma 30:59](https://bom-editions.vercel.app/en/1830/alma/30#59), + 31 more
